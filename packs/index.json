@@ -2,1546 +2,1546 @@
   "packs": [
     {
       "lang": "ba",
-      "version": 2,
-      "path": "ba/v2",
+      "version": 3,
+      "path": "ba/v3",
       "files": [
         {
           "name": "bath_clean.envelope.json",
-          "sha256": "fc6711e8db0184a4a3aa2ce0fe0cd470c33692ab47bafb2f7c486c3b3b53b322"
+          "sha256": "46dab59cc3f063528290b9299d9be8051094cd01992304ad125c7239d33f255d"
         },
         {
           "name": "bath_clean.m4a",
-          "sha256": "1baf7a7c43b896cb3bc76029e4b88facde6852ff34a957819fcb1e75ca063a4b"
+          "sha256": "c3fc8ecdfbb1ca944653858aaee67d170671a8baea79fddc3dc948730d7d0155"
         },
         {
           "name": "bath_eyes.envelope.json",
-          "sha256": "4484672bbbdb4b66b01a46e1f8c3e25a6a7dec9a0e44ff46543fdbe16adf627f"
+          "sha256": "b2aac87a1faef8a5357f3890e2c3a72d7cf44b14db39d62b81eecc55941c3028"
         },
         {
           "name": "bath_eyes.m4a",
-          "sha256": "25c1f39087903e38c46ac3ed484f4c1092671d42835bdc6a0cc9e2c880ab00fd"
+          "sha256": "4e0c6a3e35e738c2ba40350b432cb1bfc3df92f8fe71104470fbf3ad4ca3ad55"
         },
         {
           "name": "bath_hands.envelope.json",
-          "sha256": "db3b792b32bd374002bb2cd9d7494eb392c18a4d9f3edc695fb6fb977c48f57a"
+          "sha256": "c721d0de3cc331e524c7fa0162644d06a49fd3a9f4b3eeec9c7800011eea8d5b"
         },
         {
           "name": "bath_hands.m4a",
-          "sha256": "3aaa463eeeb3fb3939e56314c48e32eafac733d6090b763e4890e65219af0912"
+          "sha256": "b41ee93aae8122bb9e76825e4cde7e44a0c63f2a0156c7ad7289a1ecd1e99758"
         },
         {
           "name": "bath_towel.envelope.json",
-          "sha256": "3f5a1c84f86b2b72a7049941a5cc5270e86196c22ad735173f6a2fee217efa0e"
+          "sha256": "1639c2dfe04c1250c78162447382cf864a6f3966c01ab27814ad30418c236043"
         },
         {
           "name": "bath_towel.m4a",
-          "sha256": "6e82385217c4db3e8ce23a09d3d97745ba4b2fbc2df390ff1524a7f6e351e448"
+          "sha256": "b616f3bf619164bb32697a366d25c563707cf4ab30537ed8b5225a5936ba195b"
         },
         {
           "name": "bath_warm.envelope.json",
-          "sha256": "782733fa76c864c5a0291e62da53c12e93b5fda0d7862a3b7e916334d58df98e"
+          "sha256": "7323589d8a250ae1af140145d529ae5b4b0136d488ebf064cd1b9c3c30a10333"
         },
         {
           "name": "bath_warm.m4a",
-          "sha256": "dec62a9a5087919ebd34c45288245bb2634a37ad7f94849866390d69b8c6e4fa"
+          "sha256": "98948f42e41852aebb83c83cd3fd7f7fe6bd2f678528abfa6a9f06c7aeb90971"
         },
         {
           "name": "bayram_cat.envelope.json",
-          "sha256": "b568aa666e5dcd391ea8fd7187c644d4fe91865724ddc27a25465cfa84574a54"
+          "sha256": "77eb8b71e4bbddb331ff920fec9b4d248817d148aa5d746c1599f93023667325"
         },
         {
           "name": "bayram_cat.m4a",
-          "sha256": "310357887a31c12089c2cd586226655beec856fa1f79f85ce470a542fbcf463c"
+          "sha256": "298989bff2802e2f60ae1c1e4f2612295e6b7c7d38bb47d433251ded36c3ea38"
         },
         {
           "name": "bayram_dancer_ask.envelope.json",
-          "sha256": "04c9a82c81d3ff3aaea8c17e20b3b18893c69260a8365505c9300b10405e014b"
+          "sha256": "4e1eafa62b706784a1446709a4d81af04f2ce0a3689527345c7d5573debe6cf8"
         },
         {
           "name": "bayram_dancer_ask.m4a",
-          "sha256": "9a966303451bb069b75280627dda1df1e2271e5a263e2ab41622bdab360ec87b"
+          "sha256": "1252d302bac0808dee938bab8bc823dc16a993737a98310867c5c92a78e17e6a"
         },
         {
           "name": "bayram_sheep.envelope.json",
-          "sha256": "0b44164b89058a4744e7d33b3cf7b6c67998133d880e4703c9d173ddaeb93fa3"
+          "sha256": "0aa7bd736c01dbdc168af71637be6e492bf72acc665822b30092ff30a14db200"
         },
         {
           "name": "bayram_sheep.m4a",
-          "sha256": "79e523c5de1063d5f436419fa5c6edd5074a5c09be47b7f3f743bc67e558d835"
+          "sha256": "7a40e14f2e6db5a157248f6c7eb9f4c52ebbd94f7c4deb779ddd3bb28fecb237"
         },
         {
           "name": "bayram_sheep2_ask.envelope.json",
-          "sha256": "a6c3a0730d5f9baf512eaefec34cbc23444f017cd335fa68741a24282b60b2f9"
+          "sha256": "ca3f66432771b8988a267aded3482b7752559b2ab3acff43cecc2135541de92e"
         },
         {
           "name": "bayram_sheep2_ask.m4a",
-          "sha256": "0e21219a5a9eedeae46efbf1771f4b2726f38e822124cf6c8b844e81dcccd643"
+          "sha256": "301389c12542539acce770acaacc94c9adb32c0c3f85748a0c4759ecd47de5e3"
         },
         {
           "name": "bed_eyes.envelope.json",
-          "sha256": "9502e731e9cc576e746911daa88c1a4c7ddcd27cf1c7f3268f9e8abf79b0afc0"
+          "sha256": "d09c06dc8b54eed493c3898e0d915e3513088cf1e0cd1e15f4a3498cc95574bf"
         },
         {
           "name": "bed_eyes.m4a",
-          "sha256": "d8adbb713c34a7d350f06bc9d43d58f76f8d071a22258fd9944433144dc1bee9"
+          "sha256": "51cd2a4821b8dc60d36b9e4ddf4eaa76fea06f02b3b6eb327d5237fd4950cf6d"
         },
         {
           "name": "bed_love.envelope.json",
-          "sha256": "0c6b941447bb43b30702fc4422d2c489c925c3ba780bd3ec8f64d075a7326803"
+          "sha256": "2148a2513f8e7e0be6773bd5a0ed3023d93ddce690ea2e8a5cddf79344856560"
         },
         {
           "name": "bed_love.m4a",
-          "sha256": "cd5ae0a17c097c7c3f814d698d5b92b0cb27caa43e8bb7a19ec68f03671c9e77"
+          "sha256": "a41b2c32c68cea2582aee84ae11ea21bbe692297584e9d19e563854fc53fe383"
         },
         {
           "name": "bed_night.envelope.json",
-          "sha256": "593560b324ecc7c275fa164e37cc47e662c87ee5168b437488f180359d601632"
+          "sha256": "02797ee4497fd14d5b0c26eff6a4c28abd211c281b2780607a1c4d6252610eb5"
         },
         {
           "name": "bed_night.m4a",
-          "sha256": "5aea54ac5fed50e0aa08e21ae8568abe28a3e23d46ec3dab5d457df7be4de21f"
+          "sha256": "c9dd47c385a448803d73fde9bbb38234cdac49c416ca76e7be2bf1d26675bf68"
         },
         {
           "name": "bed_story.envelope.json",
-          "sha256": "9650193ad95e308e000e0995718f53124adf574aff60320480e0189086ebda6c"
+          "sha256": "055d9e389e234f937f7b445c25ec455b65a4589721ca01351eaa1ce04c28fd2c"
         },
         {
           "name": "bed_story.m4a",
-          "sha256": "ce0c75e84b1d10e0d0e6551e8432baef9c742c446ef5b0d2b7173509d4489ce7"
+          "sha256": "4842d0a4ad86458ebbd27a270f93350409e1868c9eb2fdf156c46237b4e90cf9"
         },
         {
           "name": "bed_time.envelope.json",
-          "sha256": "91222096aa4cbc6185fc7042451fb06187cadb253586db3be45ebdabe408b0cc"
+          "sha256": "513fde679b0530749ebd7b9864ed9620c0ac0f69ca8511486af10db01b2fc5db"
         },
         {
           "name": "bed_time.m4a",
-          "sha256": "30d2e570b67b08b31d56e7d7a5853d2b9050d31cc061eada0c6f61262329a358"
+          "sha256": "f6d393a154c72a9569621c3f96e0ca26f48035944b35a13c79b4648e1d6e3be2"
         },
         {
           "name": "farm_cow.envelope.json",
-          "sha256": "0023bbfb31b89dbe3af150eddfc9ed230e8be611318c3b63f4e33714516ec75a"
+          "sha256": "46ff9fd6960b16e164dec6dac41ded0dc84288cfee17a36232e91d4f76098efd"
         },
         {
           "name": "farm_cow.m4a",
-          "sha256": "208b130a5bfe13bfe53cde5db766729284a241db8c36317fb7d13e3237f17086"
+          "sha256": "1f6d6adb444a47ffdf5cb5fff024c4a550cc8211ab31ed555bfa812fe3dfb84e"
         },
         {
           "name": "farm_cow_ask.envelope.json",
-          "sha256": "e7c032ddd4a501a81debad1e36a7770441243325b059b82167f5d037fbc7ed75"
+          "sha256": "cf498aea7dddc75bdba0ac29a0fa615129be1108e8d87e6e4f6c9dd3cbf1a9a1"
         },
         {
           "name": "farm_cow_ask.m4a",
-          "sha256": "7412d3397bbd58ff664baee7309d008da34d49e6a90a5ab4c5a5b0092fb2240c"
+          "sha256": "dced40df5b44cb24b58ccc44397f240edae77bb10184ce476bc9da75d2845306"
         },
         {
           "name": "farm_dog.envelope.json",
-          "sha256": "d088e40ac9db262f930db48784560d9f90f97ba62a0dd979217387fd6bbea09e"
+          "sha256": "f06646d0a47d6b702d1b7e47a61245b248dce907845f45781ded057ccbb9f97c"
         },
         {
           "name": "farm_dog.m4a",
-          "sha256": "a792fec6a2b7f7bce8e8372c4f53f9d943a67d862bbde95012dff905867226d3"
+          "sha256": "63e6e36156117f707fbbcb8ea193903d1388c70e564e05bb2203d7491c3f107b"
         },
         {
           "name": "farm_dog_ask.envelope.json",
-          "sha256": "acdb469754e34a974d6b902916ebdf12b682ba4dc220c1b44c433d5129d26d89"
+          "sha256": "b7df97cbc611cc5341bf20fb04e17c2c74366e73a73b7726998bd4c2c2cd4ddf"
         },
         {
           "name": "farm_dog_ask.m4a",
-          "sha256": "c0ebed03ebb104f1dcffaf3fb2351827bbb3bc51cb206d6438459879a0349de8"
+          "sha256": "44921dc108ee802454e66712a4c7d2544c5e69bdb08db5282cdb985942638335"
         },
         {
           "name": "farm_hen.envelope.json",
-          "sha256": "a12fa8e9f5605259cc44d9d13512ce6b56458e2aa441ad4d81952e1ca22ac784"
+          "sha256": "44fce631638fb98aef1c9d6f14ab27178595c91b93ae30fb7df572d6be490829"
         },
         {
           "name": "farm_hen.m4a",
-          "sha256": "07f09f435f4267f90cc5e0832b09d574e40f447a91b61d966644442bd5333f1e"
+          "sha256": "324c958504198c8fb3bf6dbb7806be535fd0882f3c657fb98ec4323cc45dbeb6"
         },
         {
           "name": "farm_hen_ask.envelope.json",
-          "sha256": "b42ceb83880c56a7879baba1dc3b2c0a507d9dd1066d0c1a6247f3baad8d230d"
+          "sha256": "f43b17c4b748bfc3287b4f2a6919568c1dc4d9a9188020eb381cd636b26a28fd"
         },
         {
           "name": "farm_hen_ask.m4a",
-          "sha256": "0ba200dde3a4735b6357a9b3983bf4cef07bfcaf071dd9e304e5e650eddc6f31"
+          "sha256": "7e01b2231e912f87956cc23126d4e939b9a071968f94cc7477199e9307fd7344"
         },
         {
           "name": "farm_horse.envelope.json",
-          "sha256": "853e8e7e1fd5d26c6a3a6c193d4627c2e6978db88c87aad7d697a0543563372b"
+          "sha256": "b6ccdd018380b12811b50e3cd9b452949da4077855dc6ab1628f647ae50fa52f"
         },
         {
           "name": "farm_horse.m4a",
-          "sha256": "0db641f44928f1be89c8892a2aa69ad4d67b8d617ad9ce9d37187d96fc0d3d05"
+          "sha256": "49f3b8eb346f1605ce83bf3f10aab971bcc767df4d51943fc671d8d82e4d7086"
         },
         {
           "name": "farm_horse_ask.envelope.json",
-          "sha256": "b485edd70545f303cd1ea79b97806aa78dd989ee35aa982cb3138ea5f280181c"
+          "sha256": "99281596cb3e8875f5b6163bde44c85bea8ac51bdf07ff3f228232aa636d3316"
         },
         {
           "name": "farm_horse_ask.m4a",
-          "sha256": "2abf040f4d52ac85ad03d171e825095d113d9d056bd89e0d66ba2fed2521b3e2"
+          "sha256": "f8e2373e76111d1c4a877cf836eb29a4b4963ae7c096cbd7a80ad5e0ccf01434"
         },
         {
           "name": "farm_sheep.envelope.json",
-          "sha256": "115da15d808a57eeb0d1a90c15fb543d6b710e1ece22b320a172f36acf093308"
+          "sha256": "d8ec598745699e1bfb792ded29b586efe43446440697cad7fdad8708854dffbc"
         },
         {
           "name": "farm_sheep.m4a",
-          "sha256": "24ac0687fea7f28f4b5576b1cb60d0de42b071fcdac3efff69ace0ed494ac4c3"
+          "sha256": "7518defb64b6b7b1c0ce6128a888174ffbd702200f6f4311edebfe2ebe811a2a"
         },
         {
           "name": "farm_sheep_ask.envelope.json",
-          "sha256": "0e30beb55c5f156e482c21512c2a4ff7241f5a0f177324232b6eb227ee412a76"
+          "sha256": "a9ca3315997350b51919c2342b261745b673d19539f1bf42dac30ba15d700602"
         },
         {
           "name": "farm_sheep_ask.m4a",
-          "sha256": "417a228f3e2a3bee338dfa53bb4b346ead781de38fec0ea19b6d6699466eb92f"
+          "sha256": "f3c3cb846be9f8f14c746e4b6bd4f50a5697a8e95a821e539bd79b74e683aefe"
         },
         {
           "name": "forest_bear.envelope.json",
-          "sha256": "942b457c33c39ed71e837ef6c0bd0570d4c405799c7226ba7cab91419dd6f5c3"
+          "sha256": "90d0ce57882dbd7587e0e7c83433b4a3cbb538d7ad6644e252116ba1b8ad4da3"
         },
         {
           "name": "forest_bear.m4a",
-          "sha256": "c009ab356fdfa758487ac193e3cc517f4cee5e129b2df216437f79976c3d54f1"
+          "sha256": "3beeaf4a1587450a30a2ee59fbd52b6a10c1898f5d6b97e1c37b57a9595d29e5"
         },
         {
           "name": "forest_bear_ask.envelope.json",
-          "sha256": "1ff341b647154bfa24c1c4caf249ac1ede4bc05f32c41d163c1b06860f29be6f"
+          "sha256": "a832acb6bf3a157f545f5432b39ca2c3e3008a1ced7f58797c8454fa8ade52c9"
         },
         {
           "name": "forest_bear_ask.m4a",
-          "sha256": "8dd0f4bdcf060866b1223b7e056f316e1e8df2d6393efccdbff1bf33cc9b3aac"
+          "sha256": "3193b0035ef623264ec5556e924b2e04abaaedb24416ab7f9ad91321a041ba16"
         },
         {
           "name": "forest_bird.envelope.json",
-          "sha256": "1b8a5eb855db6fecd10bbb6fc25423b356e05b1b82d83a3e9c484d84e12d8ce1"
+          "sha256": "734e728e379001c6765f01f1fd868703f7cb0eea1fc2bb8555c9e6886eb0ec2f"
         },
         {
           "name": "forest_bird.m4a",
-          "sha256": "d40110a5dfe7a11aaf3bdbcaa6ddfd27e0a6ef900fef7b1256cd83ceadeb4b63"
+          "sha256": "9a8ce3d30a80684f334d42ef668f17e7d7c0d942c6c8a9dfd57078635f0ca41e"
         },
         {
           "name": "forest_bird_ask.envelope.json",
-          "sha256": "fb2b95defd4fafee839166fda25d97547a182a536c02d3b16f013e8e0df4ac36"
+          "sha256": "d1f1476ea2aa66413012ac4e3bbcd6a514231ba58ff9fa3cef27767873bfad61"
         },
         {
           "name": "forest_bird_ask.m4a",
-          "sha256": "3c3e4029e31f887c0823f82bd32938a911bf86bd05711212a5a800385cc8104e"
+          "sha256": "2eed58194dfd5c536e8edf0085c3d975f61111ea2e1e07140984bee396394c55"
         },
         {
           "name": "forest_fox.envelope.json",
-          "sha256": "778279be24ee70bbbf2d6a62362c0bcd7a5b8c93925105e94e44e9e8b11c101b"
+          "sha256": "df21c760e12e0f895e31850b7ed02d20aa366a37ed8cd3bbab149ff3cb22438b"
         },
         {
           "name": "forest_fox.m4a",
-          "sha256": "16a3935b22959ef53a49622bf64722d0d1d0b8bc6874df97d18b5f460bcea64b"
+          "sha256": "b3e5181620238f94c7826557b7dc3636ea3aede752afbaace39a2d3fbb66043f"
         },
         {
           "name": "forest_fox_ask.envelope.json",
-          "sha256": "0443d46a8e9ed6f2afd43cfa353f46f47003589392477a7bfadd39cb68bff2b5"
+          "sha256": "23ac25e7f29bd693fa6dc626fa0700b01b31c489ec48e741f0ed4251bf12a5c2"
         },
         {
           "name": "forest_fox_ask.m4a",
-          "sha256": "d42f07c3cd865a8e4ebba4c3cfff71372e9a5243f4af8581fe930edcd22426d0"
+          "sha256": "6e012ee961abcc6fab5540f37c8ff123c8f35c5026decff8928b091cbc3a9a84"
         },
         {
           "name": "home_bird2.envelope.json",
-          "sha256": "0d6c84945dd5f418ae3784c4ee51988e6e74b5c5ce74d98b078d4830890d12ee"
+          "sha256": "c7cdc4df49bfcda447590557f0b075fed6fc65663ae79c888ee640510958acb7"
         },
         {
           "name": "home_bird2.m4a",
-          "sha256": "c6fd6e170af1850c30e760dd73297538ac60692e1730a3e3a43e895239447dd4"
+          "sha256": "287c1d83a36c22a7f8f9987ee502f76c4bd826c17a86919fe1a91ce4994b2b9e"
         },
         {
           "name": "home_bird2_ask.envelope.json",
-          "sha256": "bdaeafe25710e8330774a2956319a296d40ec3d4e54f356c1dc0722497554ef4"
+          "sha256": "2b2fc72365601af78faec058f3b2481bfab71b09dc3b1b633a3702f81a7a9695"
         },
         {
           "name": "home_bird2_ask.m4a",
-          "sha256": "948a483470dfa6f81b15c567dbf664c2d9e4d892ca413eb3b5f32d8617892bf6"
+          "sha256": "b6474a161f0354ca209b7b31adbe38be406db052575e57b42c2f9f9a48ea7280"
         },
         {
           "name": "home_cat.envelope.json",
-          "sha256": "a1d88777e88a5efe1b7833ef016b1cc2426c5aa4d4cc55562c3b02ca6e9edcee"
+          "sha256": "8b66b503ec915ecfa903b7b4c89d9c3b0d351671e5782551a92b2521ffacfaa6"
         },
         {
           "name": "home_cat.m4a",
-          "sha256": "eb8a9c58b6ebf521ecabb7d92ca3a4e046811a9ff5a132d8e9fc8db66fe6c5fa"
+          "sha256": "a4906b8285e6c12554d799500ce67278deba954ddcf2d09572402eacf49bf8de"
         },
         {
           "name": "home_cat_ask.envelope.json",
-          "sha256": "367b345fe3b695a6d93e2d3203e1bc47cbcec22e60c5837e9680c83193355816"
+          "sha256": "b08c6852ade485548e26bda027a03edf7ac95e8b3b557b24405b5dc5d9693db5"
         },
         {
           "name": "home_cat_ask.m4a",
-          "sha256": "b2d610f2a2aaf8931f9a59ee6fee770cff0daef94d1560d72e52924792705764"
+          "sha256": "21165fb2cb3203fec775cbf53ec31e8d11d9b02020bd576a1419f102bd4a35fb"
         },
         {
           "name": "home_dog2.envelope.json",
-          "sha256": "4c83a76f9929fa2195ed2edbe7bc4c89ac9bfd74056215521691223927658322"
+          "sha256": "5147223d98ab560c1a6613ba3e7eb7fb5cdcc3afc57d257127e296955ee09c90"
         },
         {
           "name": "home_dog2.m4a",
-          "sha256": "f814df342f59f4b9dbc8fbd49b41018403b911787d639472295e2f9f3bac1c70"
+          "sha256": "898ad443ba8ba8df9e80113f4d1c5faf47b25beb9507ed005d57f92a806e0c92"
         },
         {
           "name": "home_dog2_ask.envelope.json",
-          "sha256": "1d75ad2321a4825ae4a0149ac6b469a028e810d07e15acf2e211eb24a2775bcd"
+          "sha256": "aeeade60e97e74b04bb4fb4b9788e73230e2d6cdfb3568edd226b110f3b14f4f"
         },
         {
           "name": "home_dog2_ask.m4a",
-          "sha256": "7824155a4b5bf9eef7fe240e8e2eadcc7562c26c0018620cfe051faf22fa6076"
+          "sha256": "e433525949e046a563106c6271f5af7fb2d62811be3b885fbdd3e9c64a9a7794"
         },
         {
           "name": "morning_bear.envelope.json",
-          "sha256": "b5591c67da62713ae7fc59baa4aead9bf181538ee6fc863b61f91df4c5f5ff4b"
+          "sha256": "f66557dfa4da2b739ba3f74d38cc86c42da68bfef226c9b9d68897dc6a47929d"
         },
         {
           "name": "morning_bear.m4a",
-          "sha256": "5fc9d015dfa66775af8b6729c0350642c7b785a8925780eff066003b22153e06"
+          "sha256": "67bf2a9eda97c60058579882dc297a9ac850406624e2833fe0d0fecb4e7b2caf"
         },
         {
           "name": "morning_bear_ask.envelope.json",
-          "sha256": "ae92ca8d920dd226d7d3d18b75e40b8e157b06e06e336c4b5446251bb4f3b83f"
+          "sha256": "13111751ef4de544f079624b83ee08470a1761481b8100994556869a77fa66e6"
         },
         {
           "name": "morning_bear_ask.m4a",
-          "sha256": "afc5149e4d75e243bc83ba453810501fcaed96e2ef1c2146c030572b4b8c332e"
+          "sha256": "69fa098db32a45f582bb5bc02931075c6490fa236a37e1fc4eb523238497a70b"
         },
         {
           "name": "morning_cat.envelope.json",
-          "sha256": "0f0af5daf4b676757374672d1032320dda4b4e1651b32d061ae465bbc87447cb"
+          "sha256": "aaf0c8c3ac507238da838a8cc3f3a9473b53685cb37389e94fd04bf676e6f1cc"
         },
         {
           "name": "morning_cat.m4a",
-          "sha256": "9dcc2e1bbe355eef6215774df7764a503d32c808bc631b23fc542cc042f1f5d2"
+          "sha256": "9229332e66e7ed3be3e257fe0b2316136665925992993ae69b5f24b9aa8c0561"
         },
         {
           "name": "morning_cat_ask.envelope.json",
-          "sha256": "74741e66355fb521aa9c8888cbf93737048e35b8dc8bbcdaf68d5810e0e9379c"
+          "sha256": "bde0c0e723a937ee60ca39556247d077292f93e092d1149c8397129f5e29172e"
         },
         {
           "name": "morning_cat_ask.m4a",
-          "sha256": "5e87a86185116f378cff13d0d077ed97e34a460dba9f6894bcad47d12115aa72"
+          "sha256": "ea15ec7d55be1624f4b9473f695b9acc2cefe863d26f5366222686fcd6839dde"
         },
         {
           "name": "morning_eat.envelope.json",
-          "sha256": "4e6c8167af0c5898e1ab995598f8e7fff2a05d1450f99408cb2efb764accf93c"
+          "sha256": "caa7eecdf4070b5cbb2c457400b7af946b4786a23667851f19a1259638a0f12a"
         },
         {
           "name": "morning_eat.m4a",
-          "sha256": "eeac096b5d83f29ef6a9499d95048cfc6fd63c3132b65e6d825d1759136309d6"
+          "sha256": "ffc96a4183e98e2da857c132d84999760a70901fd04ec9f54822197f0df1c8e1"
         },
         {
           "name": "morning_hello.envelope.json",
-          "sha256": "3470fe5ec580f80fe2538120740436de5843da625c779b25a48c83e47ad6f935"
+          "sha256": "2b733e9fb3ae34105a144ec0ad70c8486bba830f3700d49054caf810a78c35dc"
         },
         {
           "name": "morning_hello.m4a",
-          "sha256": "15ba18067c54110de4274238a8c96c6182429dce127c8653c04136b2e766e351"
+          "sha256": "293662fa4dc6ebd1eb0d2648a703b478e46acaa40979530b420fc9f282c3cb62"
         },
         {
           "name": "morning_rooster.envelope.json",
-          "sha256": "9ee9a7c2d02b68b767e8a4db3a17af877e6f9e6d6fa73e94c5c5f6853cf8891a"
+          "sha256": "07631eea27c0bf1f6672551b162a0c04a530924f924449796a18b80695eaf3d0"
         },
         {
           "name": "morning_rooster.m4a",
-          "sha256": "6099288f8f3d1f361812d5e7ed3a1e7dc66be44e36eed5c9d4d382dfb77bbeed"
+          "sha256": "38b236ba802e4578a8fb44822c8cd57a94911e59370752a577a5176be791a166"
         },
         {
           "name": "morning_rooster_ask.envelope.json",
-          "sha256": "b47a0c0865c4e114909fc178630c46f621347cbbef24937ba8b5805a2cce1b85"
+          "sha256": "f2ad7d6370e8b77a6ebb70d2f4fba92a7471f4cbcb3b51b4a504fe88c8ff4a9c"
         },
         {
           "name": "morning_rooster_ask.m4a",
-          "sha256": "76c3e8742c693712456e3b1c617a1dde33e44b12f0df50da3cb3db262e4b4321"
+          "sha256": "6f27db4add31269b793835ee03bf5ad1c602a2ebf1ce3612106ed36be4245ead"
         },
         {
           "name": "morning_tasty.envelope.json",
-          "sha256": "8f841dcc0c858e94b966e56c69e6dc61ead74e4856e1bbea592e9cdd138e4ae8"
+          "sha256": "d525d0bd6bbf537fb4e45faed23d947d61de2f182a7fbb62196359fc7b902c1d"
         },
         {
           "name": "morning_tasty.m4a",
-          "sha256": "40dc916a73462f5df4c3e81f939222daad3066fa0b54aaed5ec6c88343779506"
+          "sha256": "a1b379edc99b11040913e5c75984660c5fd29cd8e9fa7447bcc3c859cc28507b"
         },
         {
           "name": "morning_wake.envelope.json",
-          "sha256": "045259f5f4bc5e7b941c43e1bf59068b51c8f0e503504f298814d35a0a882052"
+          "sha256": "a846e5798fb0b21d4434335744138fdc7dad5314d4e988d7bbbd66295b53ca8a"
         },
         {
           "name": "morning_wake.m4a",
-          "sha256": "b1275138a30f8a544b37e0bf41fc8543a5217aaf141a462e7f24b8cd8e5554b8"
+          "sha256": "c4b06952e6c6434f5d00c2773e950c53dfc2c35d4896effe84e7db078f41c2d1"
         },
         {
           "name": "morning_wash.envelope.json",
-          "sha256": "58ab93766bea9927d4f4655ba6b671377f2efcdd18dd7f5099ccf5ca84dc5359"
+          "sha256": "9f5fc6b60e47c85ea56f883a46c053d964f6c36ccd696e1506ac6f57a396d72c"
         },
         {
           "name": "morning_wash.m4a",
-          "sha256": "0f5cafc806dbb0b45068b6698aadf2eb86efb060148a506d9468cfbcfc44a4f4"
+          "sha256": "df4b6ac975e19822efd27311aa24e343884304aa1cd770a6879ba5f4524ab1f7"
         },
         {
           "name": "night_bird.envelope.json",
-          "sha256": "a4a1f84eb30faacb3168ebbac540d9040f56919789d3ffb484f0ff42006a4717"
+          "sha256": "b1efa9bcf1c2f87a33def81e0638cf820cbcf1dfccba76fab72d3316470725d3"
         },
         {
           "name": "night_bird.m4a",
-          "sha256": "c4fd31c6032e77c0d665e95e966bac8509274ed4a1056d80d1b3f29d5529085d"
+          "sha256": "c820acb758f7984d95f55c100787f4a675d5cf3e0f58d0cc310ce510156cfd46"
         },
         {
           "name": "night_bird_ask.envelope.json",
-          "sha256": "2caab1dbdf9ee2c56747a11718ee4543dc09a6d5da3a4fc3ed4dab4c473b27d2"
+          "sha256": "541d653f899c8bf22957ef75abd1592560998cfbede6185df79e1e0e118d7e71"
         },
         {
           "name": "night_bird_ask.m4a",
-          "sha256": "5f23582e10cd3dd26cda9ef9f5c92fd71e544fd768ca7e5de3599940b3cc1675"
+          "sha256": "3519672c1ba113403bf611b244a2c046875638a0c07323899071c18b54e2320a"
         },
         {
           "name": "night_dog.envelope.json",
-          "sha256": "2f19b6a86588793799f78a90b19e3800029a1597d206ecef9616e49bbb70f0d6"
+          "sha256": "3656925b5102c1a75078929b14c714b358af72afbc1d9d222ef0261c3370d17f"
         },
         {
           "name": "night_dog.m4a",
-          "sha256": "c6ff6bb6f39fff6fdf63d67df4b859449fc49563969aa370c2fcd76bc24decbe"
+          "sha256": "c98b8ec5670742249548cc8fd85e0330780ef245c42c888805a24f34d2840943"
         },
         {
           "name": "night_dog_ask.envelope.json",
-          "sha256": "71d3744bf231a84fc67712de7848be6c73a5cb8463c5e0b4d84d2b0dd75cb15f"
+          "sha256": "c77ec74659f23afcb18598ae0f122e44eb8c9959ff74e32e09e31afb6056b62b"
         },
         {
           "name": "night_dog_ask.m4a",
-          "sha256": "53eedef8e02d208c0c38447fc5b184a367ca51b33c347d46c2a89c327f7b95c2"
+          "sha256": "83961e66d97eb198c20c401e4f9b5f1c451415b4e96ace2e6263f0254f69e9f8"
         },
         {
           "name": "night_sheep.envelope.json",
-          "sha256": "833e7e46fb3edb0905ef9ff0b72d975c73ebe1f06beca4f760817ba87b3570e9"
+          "sha256": "6705baebd6f967f58c87b711611b121edf87866efa0f8676bfb1e82648182b63"
         },
         {
           "name": "night_sheep.m4a",
-          "sha256": "b1507d13c3256abbce92d21836983792aeebb2284e4cf93ac7345a996a4cc176"
+          "sha256": "9e49c1467110fdcb060d1b837e463f9667b7b8499075fa8c6d765189ffff42c7"
         },
         {
           "name": "night_sheep_ask.envelope.json",
-          "sha256": "a119841e1858b0cd10d28acbb92be263c040a36b5d9fbac0f4718f74815055d4"
+          "sha256": "48e7678a2a27ccc5f31de75e6d5fee1de2c23d25e98ac6cba6457e2169e3ca6e"
         },
         {
           "name": "night_sheep_ask.m4a",
-          "sha256": "a6b539ce0798aa4ccbf3a309d60395fa02da9b61b0ccf6bc03a3749764203c26"
+          "sha256": "e220ae378a55b660cc054dc1b67fce01e643ec0655f9fdba036da95686e2c20a"
         },
         {
           "name": "pack.json",
-          "sha256": "9e37b515fa481dfc5f25c625d0e9cb49469a9adc7a03bc048bdc4767b9b68901"
+          "sha256": "011f74dcc305f359d07e50db252d2b082a98c8cfbf8bcd54f168eef86fb29e9c"
         },
         {
           "name": "toratau_eagle.envelope.json",
-          "sha256": "35c5261511b17d337052ae2423c7880dd60401eca70dcc62816aac8606dba560"
+          "sha256": "d36eb3a50925c364b9da8f29b46f56026bfa312a4d9101c2e1cfc9db9747277c"
         },
         {
           "name": "toratau_eagle.m4a",
-          "sha256": "4c0e1031cd21d69e64d9ca07fd5c1ab4eeca356e80c4a86082e0502c7045a861"
+          "sha256": "da40d0360109a94e87dbbb9bea3b5542331a7fa6d7145e3747b1f1ec3f772ad4"
         },
         {
           "name": "toratau_eagle_ask.envelope.json",
-          "sha256": "7ab1bd232edde561c9a6f486450520e6bf29ded2c3cbd628d539a53dccf5d579"
+          "sha256": "b5f381c103bbc1e6933bcbfc728fc72c975ffebc59771be71c2312ee4c946228"
         },
         {
           "name": "toratau_eagle_ask.m4a",
-          "sha256": "d7d67b669439faa7851d15811a23dbcad6ed837d0bc4d5ee935fb90d95513ad6"
+          "sha256": "66d7798482e54ab1f89d2a8c5320f30e6d9543ffaccfe7f642fadd1116c6fdc7"
         },
         {
           "name": "toratau_horse.envelope.json",
-          "sha256": "b04ffe6daeca764051c6b369ee5f52da6b518a86c5855e39e4dfef364979698e"
+          "sha256": "381750477e5a5a64a55c437a27f7e1f9ddebe43febc547519887eaca9ba41e7c"
         },
         {
           "name": "toratau_horse.m4a",
-          "sha256": "6da124dba0993abf9250e3d702364f88ed291204e7f11b6879ee4d875dbb1538"
+          "sha256": "2d09e8c6c3a2806ba84d8179df5c6f92474a9db0472b2ed8fda4be607a002dce"
         },
         {
           "name": "toratau_horse2_ask.envelope.json",
-          "sha256": "30a9e0c48940a40844b84b4fc9612f1f246e42e244f47b969df6cc06a1126fa9"
+          "sha256": "e9b754c53f298eeb75830c5e3706100c36aa2e7bca55d64541df0df9a9582bdf"
         },
         {
           "name": "toratau_horse2_ask.m4a",
-          "sha256": "269029960531f3639a8d589f30df95cf78e39aa4356fb9e7fed7fd36613b6f91"
+          "sha256": "7c769671e9557440acc9e83cde641becd48526cc72c2f52e88e8d0e92bed1716"
         },
         {
           "name": "winter_bear.envelope.json",
-          "sha256": "94deb0ef6175ffac28139e27edd075da30a7293b7c64530d74362d3023f99aaf"
+          "sha256": "67d7daf0e747db6bdc91678fa507f53d3ca70fa7a1395099f11512dac17101b8"
         },
         {
           "name": "winter_bear.m4a",
-          "sha256": "a009551a47305756f09e4e380d45a7c450c14e2436afeb8e6ce16853556d5363"
+          "sha256": "5bf2465798a454ba85fe4ed0be961793b6b3cf200ec68e11bade2a9590e561ef"
         },
         {
           "name": "winter_bear_ask.envelope.json",
-          "sha256": "d87f67139a32a86bc469e02a3ab43d0c20e6ab40974ed96dd537182f1e1e87af"
+          "sha256": "b371411877a55325867ca68af15fd533ac1af90de948769194b7ac59312f1214"
         },
         {
           "name": "winter_bear_ask.m4a",
-          "sha256": "052b2198587a5ad37d1b7cb7af3c8d392e30d91d2d381a5e1508887b1a7c6ef4"
+          "sha256": "5d07c4d9f1172414a616479669a88a06b960c69150f43ea08956c4b460489398"
         },
         {
           "name": "winter_bird.envelope.json",
-          "sha256": "4760b09d6ac65d26eec3cc9b768c0bf026f4a6e7a41bd4dcf2fd54ffbe59768e"
+          "sha256": "0a74661ca420c0cc9feebe83984ae04fe945e4fe7e211eabda8a0132a24ca949"
         },
         {
           "name": "winter_bird.m4a",
-          "sha256": "c05a3b237ec0c2ad8fdd066e6d6b257f56eb4523efd14fe43f9a116dffc649e4"
+          "sha256": "6844849fb25bc191022331193fde24cd488ef0d9efaedfef9d0662429da89c29"
         },
         {
           "name": "winter_bird_ask.envelope.json",
-          "sha256": "e84997997b853974998268f9f8dab913d8de7dffe0ca31f080cdc66e76786e3f"
+          "sha256": "95820bc6ad7910820eabf0cd26699084bac61353916375d268eaa2907f583734"
         },
         {
           "name": "winter_bird_ask.m4a",
-          "sha256": "fc21608d20e70688b4728a8acffa7d57307533bc287094f0c17bbba6485197a3"
+          "sha256": "9bc8df81ae4b07d8d4fcaf875e1fd492966924731e9a4d1572d4ba9894bbb72a"
         },
         {
           "name": "winter_fox.envelope.json",
-          "sha256": "653650bbbebcec553bf7c76d8920fb40d60d9defec478290cbd00f9e0d535a07"
+          "sha256": "8d4de0f6c1ac11267a5382285a4285afc2c66b8f3a3d8e980d4fe4354f73a5a1"
         },
         {
           "name": "winter_fox.m4a",
-          "sha256": "1cee5b99a263813e10e77f602c61658ce2531513324d782ff4a332ce147923ec"
+          "sha256": "0f22789ba66d28565a261bccff303483e4b8c384a99d8c7e002155b370d67b22"
         },
         {
           "name": "winter_fox_ask.envelope.json",
-          "sha256": "6e16812c41a412a241f56c0048fbb7bc618531e042a16f1c85cfe4925cb0d582"
+          "sha256": "f47923a0a94568ed5bb7444cb521f326cd4d85a9687028a7927638e61ff2498a"
         },
         {
           "name": "winter_fox_ask.m4a",
-          "sha256": "73ee4dd4fe1bfcac27df98a8301b3a00b32d15087f682e9ec4cfbee7f6062baf"
+          "sha256": "7c489a58417686a3a4cff60f80a136a223eca92b38b3368a4c8765d428c4f75c"
         }
       ]
     },
     {
       "lang": "tt",
-      "version": 2,
-      "path": "tt/v2",
+      "version": 3,
+      "path": "tt/v3",
       "files": [
         {
           "name": "bath_clean.envelope.json",
-          "sha256": "5ac3e1d932b6dd652e97e1913e9fa2bd0576deaa2e64de41914fd2bf323abb29"
+          "sha256": "4301ba791e5579edd1b8aab72bbcb67e99552c92fe92679b594b46efb530dd59"
         },
         {
           "name": "bath_clean.m4a",
-          "sha256": "2fc57f75267af329ed30b7496e60cecde346062f624e31c6885f2f649382a71b"
+          "sha256": "9f80e71af67bbdd83ba5cfa88fe00cfaf7b079f7494db5eb6fda2c9ea5dd76a5"
         },
         {
           "name": "bath_eyes.envelope.json",
-          "sha256": "58514299b3d71854dd4c3f807d756e5237b3fb005bea86581886632662012e2d"
+          "sha256": "9b040d42722fcb123536b2659d4398924f8754314dc9d0697d403c885ee335db"
         },
         {
           "name": "bath_eyes.m4a",
-          "sha256": "6b19a98d99dfc0082b2ea42ce0b5d7daee20fcd0fb18ef53bd8611df60b0e5b3"
+          "sha256": "804984f27263639da91f5e44d97ffae74d4b3793d7dc5691ad2b121545c917e0"
         },
         {
           "name": "bath_hands.envelope.json",
-          "sha256": "a3cb00752b0f72dacdccbf57c6f186744a2cec5580fc1371d81e2baf99105fcb"
+          "sha256": "7dd856fb3a5829480af42078f3c219b4415dd3365a8e017a70999619931941ca"
         },
         {
           "name": "bath_hands.m4a",
-          "sha256": "9348ca8eb68a769d77b6e35ce7c3176fdec5411de8a3703d422d6f97f5230e60"
+          "sha256": "66e8b9156e4d9d79e5b61e1cbc4a867665d5f246b1c3970d90baf48a5a543082"
         },
         {
           "name": "bath_towel.envelope.json",
-          "sha256": "0f5e5fbd1b7ce90aaddce1b855ef5fba671287169ae14a2df1a0001efaa9b8d9"
+          "sha256": "0ac8d063c7b883ef411826a115e92dd8a559abcbf0fa9bac7787916880c90b90"
         },
         {
           "name": "bath_towel.m4a",
-          "sha256": "beeff8f1de3adf5e2f2e19559c9581d3b59cc1f9182846b5f23e0b25b4db66f0"
+          "sha256": "b9068780605624a766a258a1b7c4713f9dedaca1b39b6bc41397479326a86c04"
         },
         {
           "name": "bath_warm.envelope.json",
-          "sha256": "d2b2c996eac71732e1df47f1874fa383a8b38e6ff6f71f3e3e6913ba3d667348"
+          "sha256": "4f649871f46ee64878d02b63ea8a3601639ff1b2e15edffab4f9a2eb1b95f38b"
         },
         {
           "name": "bath_warm.m4a",
-          "sha256": "8d86f4f2e3f030cef7cfd7f9dd9f27005efaedb021ea2c41d68a74aeb9fab5aa"
+          "sha256": "f6fffdf4ec827715d523f6bbdb409a42fb7564f0226b4a8fcb1872920d26b53f"
         },
         {
           "name": "bayram_cat.envelope.json",
-          "sha256": "abc1d2b363ef5e99f0742413294ae687f600d3a9c50ccf09f24af21178ccce90"
+          "sha256": "6863188385095eaf8ea0ad401992a0564f1a9c5af1e0f296f4b7943949ba2828"
         },
         {
           "name": "bayram_cat.m4a",
-          "sha256": "9ad0c0b9074a84d5f51ea441494a9bac8ae83c72acc5dae464793579d113a54e"
+          "sha256": "d0078d5c4d8c42bef900179163c9f655b8f8ca1d6fa6a55d359d210fcac56ce9"
         },
         {
           "name": "bayram_dancer_ask.envelope.json",
-          "sha256": "39bedec245b886e6cffb0497c077832bee6960c70ecdbb19370751a48cab7034"
+          "sha256": "a0d4b3bfd7b954e6432c93a7efb306684be799f41cdb2c1eef092fb5c70b7b7f"
         },
         {
           "name": "bayram_dancer_ask.m4a",
-          "sha256": "e15ea879579cb811db6c7e1d927d9a973226ec310f401dfe440e3ceff0d145e8"
+          "sha256": "98c8ff28673583178ced9ec5efdf04e1e97d31fcd2ff7d2bf78fef3d7c38bf67"
         },
         {
           "name": "bayram_sheep.envelope.json",
-          "sha256": "3366741493230ec1e9a608eabfe8cee42e8fd9596c3032a80eaa35c524715116"
+          "sha256": "fddc1e236437738d40a2c31ee1b465a5b4672270fe8b84f3087d45ef13f14b05"
         },
         {
           "name": "bayram_sheep.m4a",
-          "sha256": "eb58c9108a3c80135021e9cbae09c460e0c268d4b3091893ae6d03e94a91925f"
+          "sha256": "62979c9afd128371c522b99f79d728a915463b5e9ede837a4e132041d6519f3d"
         },
         {
           "name": "bayram_sheep2_ask.envelope.json",
-          "sha256": "fc0979a530730cbe75bebf074adc6a347b94241e4ce9530758fb0b8f865b1b90"
+          "sha256": "8899c3b6ae7d39fcfa9a5685dcadd1996cdb3f26665092bad28921b0fc7bfce9"
         },
         {
           "name": "bayram_sheep2_ask.m4a",
-          "sha256": "b7429c0ff73f227b10b0856ed0fa8e269aa67ad3c575e8f8cb3b43d11e370627"
+          "sha256": "c5f20b400f3aff992bf239fa99a5a539c5f60de3239389714c5347f711c96765"
         },
         {
           "name": "bed_eyes.envelope.json",
-          "sha256": "bcbbd191c46ee44ed08c905f94bb24354d42a3fc70e97fd8bd71c86f5d3f5b8a"
+          "sha256": "e9b95a57a675d6407113ad76473db568c5049c1d8b23ca97307f2e5033264bd1"
         },
         {
           "name": "bed_eyes.m4a",
-          "sha256": "c4ab21c8533b7a1ec7e3efb452d439afbec7df6415e4fd982277ec9238b97f71"
+          "sha256": "851cb77a82c519777a3da2468cd2a2e1221a52bcdf8bb84f95f8aca372fec5a5"
         },
         {
           "name": "bed_love.envelope.json",
-          "sha256": "94488d2ec362478a348404db5fa09fd1217b27d2cfc68c4c523d4a3be6064f4f"
+          "sha256": "89f7af17bf1ab68b431fd077b7394e83d81bb5912e3d316577e3a2ff2c7ab12b"
         },
         {
           "name": "bed_love.m4a",
-          "sha256": "5d932cbfa022b9d52d999524aa082a2c95887c2facca3a7ad2107e39ee33521e"
+          "sha256": "7ec2aadc8dc1f2f9c7c88d352a225fd29b31d348205916b368cca372c468832a"
         },
         {
           "name": "bed_night.envelope.json",
-          "sha256": "9ebee45966119b1f7cf641fc786a5b0a201803c2677b89530bd4cf606059fd66"
+          "sha256": "636d6a25965ec785fdbebe74061414e6d32494d426e9bee4f38b0c81f5e9e00e"
         },
         {
           "name": "bed_night.m4a",
-          "sha256": "a49e87a344ceb364b5c511e9e64122039696bc371932f4a08a56631e7296c086"
+          "sha256": "614710223d98e25e1b620155b1dc50fa3c5f0519021cdab38a17436650548d03"
         },
         {
           "name": "bed_story.envelope.json",
-          "sha256": "5e9abb94249dd49e68878f7840e1d3f1d48c85fe91280e8bc16d5caae8bf3a42"
+          "sha256": "943aaa0075d73d636747f66ad106831f4b33ee4cfb2a33ebf6980da28c64cd08"
         },
         {
           "name": "bed_story.m4a",
-          "sha256": "469fdbe020748285b4af97afdffb29d989a5bdeb52c83f96817778db80774e43"
+          "sha256": "03d139a20e9d1399838365b80ad98e5739545135a98d7b0c51bd3f8fac81ef54"
         },
         {
           "name": "bed_time.envelope.json",
-          "sha256": "d759802ce0748772b6c962e869d2da1078e90d2e788dc1338a5604cad4b977f0"
+          "sha256": "0c3d063b0a6155e49c5709d074644a9ce338b9758c4a84cb06d294a03fdacff2"
         },
         {
           "name": "bed_time.m4a",
-          "sha256": "b76ab0b5e38121047c2d53a368757097212f4c1c48aed191a7c5c37761309055"
+          "sha256": "a759bbe649926ff46f455beb683e33d7588e33c6afc9d102699e3f1fddac1982"
         },
         {
           "name": "farm_cow.envelope.json",
-          "sha256": "be0f1528380c847b3dc4810798acf5c92b796d479d428f4267533fe46cb4524b"
+          "sha256": "9da0b53add912ddfad239454c82de17f1eed7ad517d65a5ea7c16ac7c98f9637"
         },
         {
           "name": "farm_cow.m4a",
-          "sha256": "32c256d8eda2210817d8e5e43c455a54a5f8d8449e86706b5ae33af9a4a40fd9"
+          "sha256": "ee7c89fbfb9106a4d043d011578907ec2cc39207a6605bcfb4035c90c784e10d"
         },
         {
           "name": "farm_cow_ask.envelope.json",
-          "sha256": "96a8a8ab4bc15b62e59c60e7d7626051b57b41830e9120d57dd2c465277ad614"
+          "sha256": "8fd5704c7aa0ccd4012e05e3b8f06f2fdbd8fa9ae70b2a6e02750da2239963b7"
         },
         {
           "name": "farm_cow_ask.m4a",
-          "sha256": "cf662f988d62df230e479a1f526a4a771f30fa3f5b31d1a3a95dedb28bd151e0"
+          "sha256": "bea2c0fbcdd621abae5ef59fe3eef9a7a8644be12e967f2a2816bbf8230b9317"
         },
         {
           "name": "farm_dog.envelope.json",
-          "sha256": "5e88daabc798a961839fa4dfb2daf91b41c6cee032d40060624fbd4082cf89df"
+          "sha256": "ccd341569028a5d483769ee8f37fc0cb9c598a675cc49dd944967108773bd77c"
         },
         {
           "name": "farm_dog.m4a",
-          "sha256": "2105791033de9bafcc2e35d95043d51a50263c01cf47c58da78f8f1cee16173a"
+          "sha256": "4e8e3db3d5a3ebae6a4b7d6938c03f6c6c4bf1c1c08a4e0b454be9e52f414a3e"
         },
         {
           "name": "farm_dog_ask.envelope.json",
-          "sha256": "93c4e14c8f8927d4adfa36ea7a3cf889e2a8186dbfa10a59b9e11b56fda0b1f4"
+          "sha256": "891abce91e10ac0edb9642a9bb1308cec19aa31bd9661562809e4df2d527f7fd"
         },
         {
           "name": "farm_dog_ask.m4a",
-          "sha256": "f5bdad426bc31c058514f3bf45bb5752feba117dc80f6c5bcd8486d6aa2606e8"
+          "sha256": "013259806bc3a58fb80a559d98a87073eded2b89283da9ef679dc2aace822b9e"
         },
         {
           "name": "farm_hen.envelope.json",
-          "sha256": "bef9805212f56a0301bd522e272127b541ab6a033cc6f49811aa3548535dda66"
+          "sha256": "90136e8bdecef35d23f37ea66f5384bbc783577b37c1428ce6397d685a21ca58"
         },
         {
           "name": "farm_hen.m4a",
-          "sha256": "b74a497ad7b816ea888c1101cc8bcdcf5f0481bf63f8bc8e4d04a32c1f4d2060"
+          "sha256": "6c703c444f6d11d87ce67f3a20e0472f690dec9e0daa674fb68548a2601c31f0"
         },
         {
           "name": "farm_hen_ask.envelope.json",
-          "sha256": "304af11b06a2bdbf619204e556aa23dc98d9139c4eff0610d1e2ae76a624efd6"
+          "sha256": "8778f83fd60805019ef71742d9df5b043cf0309da86e262ed99abc58fd8360e6"
         },
         {
           "name": "farm_hen_ask.m4a",
-          "sha256": "71e23adb3eba3231e13184e0356a37d8b018abe5533864dc8754c9ae0d15e40f"
+          "sha256": "fa5757c7cb4f982a7b678110689233ab81a8378b1701d7192a497607e7063f69"
         },
         {
           "name": "farm_horse.envelope.json",
-          "sha256": "b7448603213ac85adda3d529c7f06cf90707ab07bc2d0dc11f2dfdd3045b03b7"
+          "sha256": "549b8b8b4b5edaa00355b010400b2355cbdb272d4a5c3c07e322d472f56d3b0a"
         },
         {
           "name": "farm_horse.m4a",
-          "sha256": "52ddd08d8d2566873d0d23d2ec9670bca58f6b66c0517185118789b2dcecc2fb"
+          "sha256": "0ae1c1bdacaa76f62559a663970a3d5c57b9047b304baeb18c5b2c12542a08d5"
         },
         {
           "name": "farm_horse_ask.envelope.json",
-          "sha256": "d4bb319869aa8362abba1a40ea3ef924f2ee131f8cf5cb4b85d395566d1fa7e9"
+          "sha256": "a4bfd12fc802b1527c5337083cae6736529dd26133c8d92f4e14efb631e37e0c"
         },
         {
           "name": "farm_horse_ask.m4a",
-          "sha256": "5cffbe0ad5901d02a73b6ab6ff50e0fe31df3e10903ee0b00d5a1ad5833a8cfa"
+          "sha256": "c7f18eced3251f2d0d1b83eab54abd9c2cf553ecf3ebe15a2de99fbf33069899"
         },
         {
           "name": "farm_sheep.envelope.json",
-          "sha256": "e94d1205be021e49703ba51b5d7c1133a156b0812ce5d74265bb35b153b4f608"
+          "sha256": "8dd8cc727b67ec9142f5a174e00118cb82952a982cefea1ee552a7afdb708f05"
         },
         {
           "name": "farm_sheep.m4a",
-          "sha256": "a01638890bb404c43add1d059800835a22a846dafdeae43e818fbd65e0207cfb"
+          "sha256": "67932ae52a8844c5187bdcdcc29cbe3dedb689fdd8708daf8259d13765cddf01"
         },
         {
           "name": "farm_sheep_ask.envelope.json",
-          "sha256": "6f7994d9ca0729e5e97e72fb7a1f6742c128095bb1b477fc75869b30770da184"
+          "sha256": "490ee027f0180443e0fcdc29c9feb057517812e9d1fe81327f73686c63daada5"
         },
         {
           "name": "farm_sheep_ask.m4a",
-          "sha256": "e34f3897f235a31458328ce9be2d6b307c3562acd20de521d589054b725eb0e8"
+          "sha256": "7aa9026937ce9c44c3d9d1b06bb119e21ec0b095838187b09b457ed51c33fb40"
         },
         {
           "name": "forest_bear.envelope.json",
-          "sha256": "427c16560168397d268220e6421dd69db14f000092981ac0bf014b6e942c092f"
+          "sha256": "61e457b845d314be0a3e0c326eb7b4b42ef0e261ffd8c407aacd5f3c3d64a4a8"
         },
         {
           "name": "forest_bear.m4a",
-          "sha256": "cb7c0998f83ad891c747601690b4b92a327ecf8c453d2ed2de142e6fb354893e"
+          "sha256": "a05b824d35f120719e367a5d832a49d30fe7ce25b9510c704af214f3d9d92526"
         },
         {
           "name": "forest_bear_ask.envelope.json",
-          "sha256": "0e9f9005f94711666519758235b729640706656adf419353077282bcaf6062fd"
+          "sha256": "366e41599e37ae85d731d0d78b3c462147757b3817fb626c883d3647b2b37cc8"
         },
         {
           "name": "forest_bear_ask.m4a",
-          "sha256": "bebe8013fdd6ded95441372a5429ada929fba097ad84695f0c1eb2475bb37c07"
+          "sha256": "3f0c17f35851b60bbdef8c9faf632c4560f123cd37cfeec85d82832c727a25b4"
         },
         {
           "name": "forest_bird.envelope.json",
-          "sha256": "99ba62addf85e62476ac46c01182e5ecea6e5e3c371652ddeebb223aa5431ec8"
+          "sha256": "00018dba8fa60bccd47e6f115539135114109bc1f36d40498a54a11ee3fea116"
         },
         {
           "name": "forest_bird.m4a",
-          "sha256": "30548b3a630cd6b0efe3d1ad12f0e17febe30ff5222aa5b303dcdc051cb8c705"
+          "sha256": "483b83661c3a0deb32773ce7bcac63ab1d4da7aa4e531b03b7f8de0aa535f3a2"
         },
         {
           "name": "forest_bird_ask.envelope.json",
-          "sha256": "45b46397f0b1cf069203fdefad80f52cd4652a35aa862a4e3d27285230659fd0"
+          "sha256": "4baf2895e7631214ab8fd9f42850071e58c05b4b8430a4f70de948f5f1806620"
         },
         {
           "name": "forest_bird_ask.m4a",
-          "sha256": "00e7d79a9f3bd108dd76acfeb805473415c56e86c3bbd9b1c324a9614e682b67"
+          "sha256": "0c13107f299545ec1a79cc845be167ec231edec1abcda9175441cb09be63852b"
         },
         {
           "name": "forest_fox.envelope.json",
-          "sha256": "2dbf5d95c5e319a2612777ce56006c7f6365dd15cf71aec2bcb2a38b39c64a41"
+          "sha256": "62b094f6502ed6be1ce3de8dbb39b9668c64978ec7b1f715ee3bedf06f6ecfb1"
         },
         {
           "name": "forest_fox.m4a",
-          "sha256": "4579236967214e8c62d72c01166122dffc3c14ea662cbd367f3d00a34869105e"
+          "sha256": "a30baae5d1b721c9e6ec59c4e43ad464cccadc101968beaf3cfc37b00143e885"
         },
         {
           "name": "forest_fox_ask.envelope.json",
-          "sha256": "ad134b4a2076ff57be24642ab6f807914f28723d48fb2e7507b13cac300ed596"
+          "sha256": "0028a60c71b5830c3170d2e1588b8a9ad5830501188011a767bbc94dbce0501d"
         },
         {
           "name": "forest_fox_ask.m4a",
-          "sha256": "f9fa67e3e60760f3094a1a1180607ae493d19d2b4986e00be3d8c20c685f297e"
+          "sha256": "6792d78c98d98b1aa5a04ca7244df8cb7118eacee2633a89b1512f69315b8eca"
         },
         {
           "name": "home_bird2.envelope.json",
-          "sha256": "470cda65ca25e9b59ca32f636dc61844ebf2ecb3f31debb6afc1a3ebb155a491"
+          "sha256": "f9aa8b42ff218fe5ce20756916318eed95fd2680af6f4ca6ebc3a53b084e0532"
         },
         {
           "name": "home_bird2.m4a",
-          "sha256": "d0f77d3e445eca2cd64739d884da3928c7636f88a1c9499c9b14ea0a9c723c9b"
+          "sha256": "18b1315ff241ec66ba142e50381af31b4a6771dac5dd0ef6fbffd5a245573390"
         },
         {
           "name": "home_bird2_ask.envelope.json",
-          "sha256": "2cda74139f2c3f65845bb32bf5525e6eecd12022361ce6ec3ee53f0f9a7d9eac"
+          "sha256": "a71d286a5ff92dc1360df7c9ec2038d1ce3db3e849a7af77db3ae04391019ff9"
         },
         {
           "name": "home_bird2_ask.m4a",
-          "sha256": "6fe0e590cb0fa15414c88243c904e71d40d7a909a61c5a44d8983209451c645a"
+          "sha256": "2e3a42db54572714f019e5cd8299468ff4cfd7825a4794761f3e79ae42161f19"
         },
         {
           "name": "home_cat.envelope.json",
-          "sha256": "9fac51ffff7d6011420353e75921e7529e5b75a156fbacd80bc66e40fdc90756"
+          "sha256": "fe95a8b16705a3d0f22fd5553fdd40fb45e003650d664b1d896dafa2cf4b8122"
         },
         {
           "name": "home_cat.m4a",
-          "sha256": "efe2bba9eba9b5ac619f029f349be8d6ad6635399814d1ab26bf0164b32fe3b4"
+          "sha256": "305795150ec6afe07544b33a0063486ad272591819a7961b2b09a6aac4d2cb60"
         },
         {
           "name": "home_cat_ask.envelope.json",
-          "sha256": "923962e63b5a941fe8c79cfb016d535914c8e31ddab40419ae7ffc3e9a63d528"
+          "sha256": "c4c22f559ed927a63186ef19cf8c3e17079685ae28e24e7f5e313271546f4d4f"
         },
         {
           "name": "home_cat_ask.m4a",
-          "sha256": "b4514fc9cb48ddb2d612808cda36b107bf044bfd4dfea970f86fd49d549e6008"
+          "sha256": "316007f747625bebf22aa5f6656ea1a0c9ff5e0ecb4a4494bd7b1629d119ca26"
         },
         {
           "name": "home_dog2.envelope.json",
-          "sha256": "5677ebb769a88488c621f3e9399705ff311f94a0db188d04c6937641ef26cccc"
+          "sha256": "9eb7d8702762f92e5a3bbbd6497f9021bfb308b985c3a64250ba731f497812af"
         },
         {
           "name": "home_dog2.m4a",
-          "sha256": "4bdd143c9f0809fb2ef29eeaaa7f29ad660eb966ee5892d1001a902fa2742e2d"
+          "sha256": "63153a3681a9f74f01d403374200e2869c6aaadb1751a308215969fe3e0f0d1f"
         },
         {
           "name": "home_dog2_ask.envelope.json",
-          "sha256": "53d66b66caa07cafe98877f3c0a238032dc9714d7f444bad340e22198df302a2"
+          "sha256": "a1f1f8590bc80769b07526f7a7ffe5561d02aeaf9cac331028742ac9e6404748"
         },
         {
           "name": "home_dog2_ask.m4a",
-          "sha256": "50bd60b45b494759bfe13fc8176163e40a98a46b92ed4b8dee756238e56e5142"
+          "sha256": "d28c84f5df55a495198ea8e98ee6d98e19ec70f6f2237898e02fd051b8f98a84"
         },
         {
           "name": "morning_bear.envelope.json",
-          "sha256": "adc4f4a80a4d5efbb85658f21a4e8f9c7b3dec562b45d28e98364c75429f8652"
+          "sha256": "21b9c7ea5284dfdf5f1f1cf8cbb6c43cb1c21a3292e541c60da79d2e01cf0f4f"
         },
         {
           "name": "morning_bear.m4a",
-          "sha256": "46ab766531395c659d1f6120ccac1745bf12a9e9aaaa0a122e06514f15209d2f"
+          "sha256": "3b4e943ec44348bac88701ac21c2c7b257fecdae5d579b1a18be6f4e245abded"
         },
         {
           "name": "morning_bear_ask.envelope.json",
-          "sha256": "6a26ee1b87827315d55a86d4c44deef5598fc2646051b5a54447b76d3e392e17"
+          "sha256": "451295ee2aecc300aec80e1e462c98d9624d36b589bf9caef337f0bc333ef821"
         },
         {
           "name": "morning_bear_ask.m4a",
-          "sha256": "5409e216ca940e67766cc554d2b0836e14f25e6f56b650f38df84fca41dfe44b"
+          "sha256": "79e8a4715ba91f0c9eb46a0176361f86bc05827144678c99412519a3a5b8ab1f"
         },
         {
           "name": "morning_cat.envelope.json",
-          "sha256": "6230b14bfdd40a930b6c042e9d4b56059b81925705db96b8f6792d5448ecb11e"
+          "sha256": "1124cee1ad141aa6c2aab2ba9ea87f7f730d3c6e979a1c319cc96a90b33bd1ce"
         },
         {
           "name": "morning_cat.m4a",
-          "sha256": "99fde4db290db0fee0d20812eee1a4ffbc752672b02e31fbaf48a1bac753d629"
+          "sha256": "c5aba961b9e2eb2f04a605217705a0034207877324715a15196c85d7c17e17bc"
         },
         {
           "name": "morning_cat_ask.envelope.json",
-          "sha256": "c6d64369a26ebbddc82463ce5ac1875d01f7c88e202e8b96e6ccd74aad877d00"
+          "sha256": "016ee9610aa7a744fc9df6d849f55691d3d6d7709ddb1e8d3c98cd575c85c50b"
         },
         {
           "name": "morning_cat_ask.m4a",
-          "sha256": "da3a78ff0e89932562bb4e53ff40e68d4c8fe0ef4f1a329ca0a1e0be9d5b160e"
+          "sha256": "248de5d4db42eb8923c035cba326f3688a958f48b89e7288927ecf25b9e80ebe"
         },
         {
           "name": "morning_eat.envelope.json",
-          "sha256": "c5fa155f136cfd92f770b30263271d30bccf34baee4dd41a0cffc98274e7a29b"
+          "sha256": "38f65e83fc159256009a8d1dffc83d9aa0c2e58ca546df029ad35b6a34c30058"
         },
         {
           "name": "morning_eat.m4a",
-          "sha256": "f00d241fc59973d39cbb5c033858167361368f268c2f6fef6f5c32d3a1ea377a"
+          "sha256": "77363d22d9523fc286ef293d77a2ffb4fe9dc7520c4c74cb1ea6ba7152b1cca2"
         },
         {
           "name": "morning_hello.envelope.json",
-          "sha256": "4a39e317cd9896db4acd8bd6c2f62159e34fb51c61a540ee4738f16cb519ba71"
+          "sha256": "75f96a136f515b12235e160a88518b14e17721c9786f70c03549302b1529427d"
         },
         {
           "name": "morning_hello.m4a",
-          "sha256": "0f9ee173de3b6f8c097d392b94526f6a3eb42abdd03e2592813c60a2ae16ecd5"
+          "sha256": "b1082b82a2fcca87d725da60e2bc1c7cc1a3eb8b96951fbb6fd6e5b8049e66d5"
         },
         {
           "name": "morning_rooster.envelope.json",
-          "sha256": "3671058f25058009e9a155afda930fa6867f45cdb7d2f48caa791d9eb05d661e"
+          "sha256": "2a7a4704bbc84e03455699a8e5cb890879eac10420151c39ebbfbf2300aa3363"
         },
         {
           "name": "morning_rooster.m4a",
-          "sha256": "c5aee41631c79c2172c90d22d3a8effda423cabb388da82252e02785fa6b895e"
+          "sha256": "4a21143799972b27504848b8f3f2a3e9aa83b67aa28a4288f2ab21e8875f16bd"
         },
         {
           "name": "morning_rooster_ask.envelope.json",
-          "sha256": "db5b66b7f9f37934cb04b90e56c882cff84d8c0e8c2ab46cd5c28405a6b0f36f"
+          "sha256": "4e487f2f970bf10445016699a857a065fbbdecb5a5bc6bcd5e6ebd8750fdd01a"
         },
         {
           "name": "morning_rooster_ask.m4a",
-          "sha256": "e43ec60940df73e1bd6342d5674c3162d0f1de4ac12155a0211c3e8154ade2d0"
+          "sha256": "af155fc37ca61b5c5fc9047d4e8954386fde3481e8958cc4e7874abc43fc0cdc"
         },
         {
           "name": "morning_tasty.envelope.json",
-          "sha256": "0c520897e8a6d5e276231ab8e4e2653487190cd6c02008a747791edd35425ed6"
+          "sha256": "2cb2ab465d088cf098b40100a23854c1915ce898c17d8b2adcaedf8ca1c07af8"
         },
         {
           "name": "morning_tasty.m4a",
-          "sha256": "bb55d5d3ec87a1cae8b812b60a1ccc96fa7aa774d8bb26c9f6c592988f8b53f5"
+          "sha256": "f7874930ab6cb884eb8ee5bd18436762772385916744dbe9c3f4ef165cb1a8de"
         },
         {
           "name": "morning_wake.envelope.json",
-          "sha256": "bc1d14bc17741f448159c13843c43c50182a8e099d568e8382c85b205e27e167"
+          "sha256": "0bbceea16fb8a72b34f89be108114f49fc8482f5f2016bdec42c3de4f5fe55e2"
         },
         {
           "name": "morning_wake.m4a",
-          "sha256": "e8649469b7ed2784385a16fb6cad000ffefd5eada282f6636f2f21099013a8c2"
+          "sha256": "8ef109b435e3db0ae2bca093023c6d7b7c58e7c00a6d5b2812430ca436672db1"
         },
         {
           "name": "morning_wash.envelope.json",
-          "sha256": "6e506b2bee5001ef0f8c1fe38e3fbe10700b8a815ddb3b20013f201432e0c88d"
+          "sha256": "0af072eac209ef8ceb7a8699a4e75c0d9b41ae383786240536f9f6fdbd236385"
         },
         {
           "name": "morning_wash.m4a",
-          "sha256": "b295ace9f5460bee3cf2733ced0f7bb431a9223f5cf454448d67d7e3955d09ad"
+          "sha256": "f51c270e06ad500e05e46f149ef9f508ecd88b210c5ab8f8a2758b3dcef2e77a"
         },
         {
           "name": "night_bird.envelope.json",
-          "sha256": "4985382c489f82f447bdb9f7133d7b1429e4311452cd95f1a57aac4ccfbab160"
+          "sha256": "6f541e3008e846dfc2badb2b94990de8612bc9d7c8010bc031fb5a608ae759b0"
         },
         {
           "name": "night_bird.m4a",
-          "sha256": "fdf18f9ef96b7e549a802444da413454d309f4ae878bfe284294e0b74c89c218"
+          "sha256": "8b9999ed0ff6c96d79be2103d5fd2ec024b3f07fea591d9d06904596a26d6b6a"
         },
         {
           "name": "night_bird_ask.envelope.json",
-          "sha256": "aab19d19421ff648241e9f17666924914bf2eef8b1b251faaa6c1cc45c236db4"
+          "sha256": "5aaddae717e8cbfba6d0b23c7009a2513d781f3887292f4b929b887b957d202e"
         },
         {
           "name": "night_bird_ask.m4a",
-          "sha256": "44b6b4443d13606ac5f8ac5d92bca74e23ca55ae50ea16625bdc93bf8a765386"
+          "sha256": "62b5db8b834e758d692ea12c920e467cfde1e2c85aa3f6f8b9a706fe1a661b98"
         },
         {
           "name": "night_dog.envelope.json",
-          "sha256": "08a8fdd1af2bbe72a430e85d118cf3f6a89c00abf795ffb6f9f9747cad608dc0"
+          "sha256": "764cba47b67a75f31e536a7f0fb148bf27e841ca702051fa908a06db449b8434"
         },
         {
           "name": "night_dog.m4a",
-          "sha256": "b0bf51ab48863773c43dc9a9ed37b3ecdcc0233722a54d10886c9d3289411425"
+          "sha256": "56eeda05ab9eab6a8643c2a7a2587e13ccde57b15c64af1d6e7c34d05279da45"
         },
         {
           "name": "night_dog_ask.envelope.json",
-          "sha256": "77ac8063454b54515dcd20a1a19210541c0b5d69dfe9503c75cc8a8fa1d2529d"
+          "sha256": "47e300b9685ccd62a87c2d475ff496281e450a0c3baa35da0f2ef93de27e4b6a"
         },
         {
           "name": "night_dog_ask.m4a",
-          "sha256": "60388a71facaae7e28e9a1b9bc0c43071ccff0f1acd8fae8cf80d6aa5331469c"
+          "sha256": "522626b7aa10dc2a3be768773db9647a6813c483da761b3cf371445aa5f16f89"
         },
         {
           "name": "night_sheep.envelope.json",
-          "sha256": "e7850797e74d257d18c2569ea878b71695f1a11c8376684749807cf132a01449"
+          "sha256": "28ae153f247b09ae1d7ae2901cafc995560b5c153deb988cebdd4b843f751fb5"
         },
         {
           "name": "night_sheep.m4a",
-          "sha256": "71db9ee6f067e0f84e2dade2b6dccb5da7402c530b75bec1822e872010677875"
+          "sha256": "9ab8ba22f46f693019267d5495318f84ac7ed9bcb9400b2ebe057828c0d47cfe"
         },
         {
           "name": "night_sheep_ask.envelope.json",
-          "sha256": "55b202e4bf23eb48635b4809c39094879f1c2a0a53b3bffe4877e92ce561ace3"
+          "sha256": "392d0ac6ef123af30d3d4c740ec42ec9200cc019f9830cfdfc9ee58e29fc5873"
         },
         {
           "name": "night_sheep_ask.m4a",
-          "sha256": "b121a8981a5a2296a821f59c9d2754858e04dd67820b6c65ac28ec3ca0d760fe"
+          "sha256": "35e9a4597cdb5fa423ba6b9ae3fb57ec7947c6786062552849d18f3308e65481"
         },
         {
           "name": "pack.json",
-          "sha256": "e0c89420ffe09111f64202fb885fd15348a9506ff4f81f733a1773e3cd1eca29"
+          "sha256": "327eaa2521758e9bb5040e5d7b02707874cf2b15c8b0ed10c1f1596a4228ab11"
         },
         {
           "name": "toratau_eagle.envelope.json",
-          "sha256": "8d3d3680be7195e92a7fc27fbd9b026d178abc7c0b22b27681d0ec0617e3d0ad"
+          "sha256": "dff516dbd7bea75089875b7a7b074eedca8bfb85ac8e3ff152e6a8595b896669"
         },
         {
           "name": "toratau_eagle.m4a",
-          "sha256": "abb5435371e8e40f1e97868d9783e9b0c14b4840206772199267471eb42621ed"
+          "sha256": "38d3cb90521f36b40efcc23cd810d912d8dd51f13ac2fec43fe369344b237ff7"
         },
         {
           "name": "toratau_eagle_ask.envelope.json",
-          "sha256": "dc4cf3a9efedaf79d795318c02a38ddf50ed6135de016caa10a4a5285c282cdd"
+          "sha256": "3e9479550fe1464464824916a00f5d5d9cc7b38d980459780d31176f66f31392"
         },
         {
           "name": "toratau_eagle_ask.m4a",
-          "sha256": "1e48a50b13cc91f00afa3c9d54c991b47195369e61430b3a3f9565baa6965c8b"
+          "sha256": "d2efb2d4167eccd26051039672798d6898533b8b0f95c0303917859862c02a82"
         },
         {
           "name": "toratau_horse.envelope.json",
-          "sha256": "7c2e134311a9996028e9e320dd89931bb5e6d58c5614537d36514dc57bf1da2d"
+          "sha256": "cac9f71f67ad4c746a6f2b8507bdf819e1231ae32436269768586adc7c90eaf6"
         },
         {
           "name": "toratau_horse.m4a",
-          "sha256": "c2b6d1fc20b74431337b7adb9a09d1a61fab9d7b1e5f6256ed95ad7a1b3222be"
+          "sha256": "a57aa90c75877e96e8e958d4e32a1e8b242f41ca8137ac5cc7851d227760d5b8"
         },
         {
           "name": "toratau_horse2_ask.envelope.json",
-          "sha256": "bb7534680af05b50b1033e4f2a2eb68a45027cd9939f86edc72cbe5df4a1dedb"
+          "sha256": "0633b78a1b805175554c08f93bec9d1bbddf2807aa8ec818abdb85d0b21776c4"
         },
         {
           "name": "toratau_horse2_ask.m4a",
-          "sha256": "6e6df58fe32175f3f9d91012dca91371f2f62f3213964080d4702dd5b152d10e"
+          "sha256": "c66e05a3dfc8b7a6a86f02193311e2654a35534190b4527e603b2eaa042e5cf4"
         },
         {
           "name": "winter_bear.envelope.json",
-          "sha256": "edde84b60c0763da598624c85c8b7778bba66ad4fdbb73f8d69a26af0a7f68db"
+          "sha256": "d28f5ca2564e790c293f0e2251141c65c24f0d22d264d4a53dd202663d67ea52"
         },
         {
           "name": "winter_bear.m4a",
-          "sha256": "1bb0c83b67307ac4f883a12026dd20d61e29b70c16df09258a869584530b237d"
+          "sha256": "53cc6096907246baa6064122f5ef30e98adc9b1270d0eb388cdaf3d758daeb68"
         },
         {
           "name": "winter_bear_ask.envelope.json",
-          "sha256": "31e82deb639cfd21db3171b82ff545b223abcfb0969814c5ee82e091da153ea3"
+          "sha256": "da829872f22d0f58f0fbdf69c06e16932dc08474c8347fc3b2a16f0371717b6b"
         },
         {
           "name": "winter_bear_ask.m4a",
-          "sha256": "f82e66b3009bc93c8a353c8e8189d715e53f49391f832716aa2d427d9872d44e"
+          "sha256": "f42760c1f38b26620fa65bcb936a28a9c04628dbb8dd51453790f24aab9828e3"
         },
         {
           "name": "winter_bird.envelope.json",
-          "sha256": "a7e602f936c427569da551ab6b19a18efc9e8524691f5df5e737574b1393b315"
+          "sha256": "de614fbed14f5c2cc75af2c8924e5584ca65e165eb3522f759220dbe1259c5d5"
         },
         {
           "name": "winter_bird.m4a",
-          "sha256": "5ef531b068f86983366b269d50b446f491038957fc3f3d1bd9c13397ef2b0d78"
+          "sha256": "d61ad83f779d0818df4e7c48b17d56d4a532024d7ef462a148ebf23a21742dd6"
         },
         {
           "name": "winter_bird_ask.envelope.json",
-          "sha256": "7e8b408bfe55c451e4a85d61013204085c31267b4ba7c846f221cfa85e29aad8"
+          "sha256": "c2acd3cc59866a0266a9b58f7d618502cbd1d20d6e3d887fc8362839f6c27091"
         },
         {
           "name": "winter_bird_ask.m4a",
-          "sha256": "7ac6bce4e139c96f17b0be8412e3ae810cbaf78ad28337fc7812b8cad8a2647c"
+          "sha256": "f62912facfee8306250f7a734c38fd2c6ecde27e8c17308600db8e7e7bd0488a"
         },
         {
           "name": "winter_fox.envelope.json",
-          "sha256": "5bcedfd1aa6e9ac807ecdd8b921d89e5d5f611e01f76c6b3dfd97174e2d11f81"
+          "sha256": "eabdc0a8cf9e38c55ccae73847da69b87a663da2c59ece02549584e696352cef"
         },
         {
           "name": "winter_fox.m4a",
-          "sha256": "20c765be477ab1eaed445e5b7db81c987b93d546ea0486ff56691d431eff6ce7"
+          "sha256": "b6bb37c70a651fbf34442de0c8c904fe194dff0f4f5c5b140c0d44d037f4be7a"
         },
         {
           "name": "winter_fox_ask.envelope.json",
-          "sha256": "cbbf177468d1f0a2ad14cfd68c4ef56727b23b81b9ec1157913551e1f0c85980"
+          "sha256": "3a14c62525a462e5f3b646d397fd465f9d1288e69fc2b43f7f8e04075281b976"
         },
         {
           "name": "winter_fox_ask.m4a",
-          "sha256": "60230850d2b391e135a2a87f322c69579c000a1a047e0d4da717294248eea734"
+          "sha256": "14de92d1286e19be29d9e4e0ebd5317de6d5d43408d976cc36898d6f042ce351"
         }
       ]
     },
     {
       "lang": "kk",
-      "version": 2,
-      "path": "kk/v2",
+      "version": 3,
+      "path": "kk/v3",
       "files": [
         {
           "name": "bath_clean.envelope.json",
-          "sha256": "61c02e0cbba3967191e5dc8172163075443a12f73e90fabda6a2c982e0bdb088"
+          "sha256": "0a41ef0522113339d3a8052c339b58e0237c513b5590374a3286274e486defca"
         },
         {
           "name": "bath_clean.m4a",
-          "sha256": "248ebedfc14887533f649c7a8b0cda90706c060bbaa8bf0630d1dd4e6d26ed9b"
+          "sha256": "4803e6c9799fa8bc42d6e4016659afa3da4a92dab37c69bc83567ad180564817"
         },
         {
           "name": "bath_eyes.envelope.json",
-          "sha256": "f636a37d208d3162e86e031d01ee8201af121dd67fe9f8601931c3cb8e713034"
+          "sha256": "1e1163e0e79603a8be3095a138dbb6fa85e998f4f0981f453cfaba3bc89ae004"
         },
         {
           "name": "bath_eyes.m4a",
-          "sha256": "040387603078fe5ca0c12a4a1790f5b95d1788c552961be7a11f7a125df57bfe"
+          "sha256": "c47bb4efc2d2c300ccc70e26b873b840aac591b8fa234b5a9f8396ab35f8ace9"
         },
         {
           "name": "bath_hands.envelope.json",
-          "sha256": "ce93fb90ecd9c51c806ee38f612610bfca080a10e3dffb6a7422b9c1d6e76f93"
+          "sha256": "dc9109fdc81eb7c287a4fa869f861fa69d23983b7e0cd0c829fba93c09145e2e"
         },
         {
           "name": "bath_hands.m4a",
-          "sha256": "91319aa03a5c486564111900a4a81552415160abd7ef9c9e8c87f35000a19eb0"
+          "sha256": "07ab94091ebbe99c90ac1b2609f0650eecb431ae415f844a2dca4148d758e7dc"
         },
         {
           "name": "bath_towel.envelope.json",
-          "sha256": "0c14e0953da3759ed3fc70f073ecbab7e44679421dda74a1b82f47b88184657b"
+          "sha256": "b7447c7d2884cb6de066399c7b0d956c8d2a31889e3fb89c7265f0a740b95f6f"
         },
         {
           "name": "bath_towel.m4a",
-          "sha256": "de319b02b4972fb073155bf160b111490ff01cc1f6d88ca158bff150bf5a2f6d"
+          "sha256": "9ecba338c1b2d513e3e5331f1d3ac7db2171c770803bab557e1e491a87be74d6"
         },
         {
           "name": "bath_warm.envelope.json",
-          "sha256": "f33d49a4d3b591e3351a0bff98ee31cff59c1d3c6371a3b47274ff562f8573b7"
+          "sha256": "09944cafe9202006a8bb44514cd62fb4f037fa7ff4bfde3407c6aa49e1f1e80b"
         },
         {
           "name": "bath_warm.m4a",
-          "sha256": "ff62f5235780487bac773010fc9425cee54bbd86ae521f3e49fc0d8115668e0d"
+          "sha256": "244441c292f9815f55b085d4680b07251420087bfa3e1bda950156df8a136bb2"
         },
         {
           "name": "bayram_cat.envelope.json",
-          "sha256": "ed3efc54e963f40b2df2b28a9f63a9e5ed61375687733bec6d9ac42dea637370"
+          "sha256": "05eaaccd34e0f73ef0a07486aac317554ea54c3dfb82159e4492e10aab55fe3d"
         },
         {
           "name": "bayram_cat.m4a",
-          "sha256": "1c0fc22c7b5c02e8499e8540c7612030afc78d8107bd05a06292825730214b42"
+          "sha256": "949e6fdb475c893fc1645aa3d794cdc7ba3e4b4cd61e89290f6fc952a4e9756a"
         },
         {
           "name": "bayram_dancer_ask.envelope.json",
-          "sha256": "ad90eacdfdd9c191ca365bffd767f34efba0c28a4bf89b0690d14d63d9fde07b"
+          "sha256": "0db17daeb4c7fd2fc3a8eabc768ca7ac375ade2831edd307751514bb12864668"
         },
         {
           "name": "bayram_dancer_ask.m4a",
-          "sha256": "dc470355b1ce0dabab356d339778f63f3780af331a05788e9de6076eae03c5aa"
+          "sha256": "45b01c37220a51f56eacaf15b0aa6806985df58d9a2dc9a94102d3ce5ec42e4c"
         },
         {
           "name": "bayram_sheep.envelope.json",
-          "sha256": "fba0e10124c9c75a64b4de87dcab4a6198290bd615d5f379a0c6afe12796477f"
+          "sha256": "6f83d72e6fcc89a59f606d07fbf0ba80d1ed186b30f1105fe98a95a9c34b746e"
         },
         {
           "name": "bayram_sheep.m4a",
-          "sha256": "bf5c1a6c38b83ab57d426f09fff1f0bbeb29f5afb39427c736829b849fa36f71"
+          "sha256": "bcbc5689bd85b1734d0cc4234003fa3901e55815031000d9657672158006d91c"
         },
         {
           "name": "bayram_sheep2_ask.envelope.json",
-          "sha256": "293ef95a60582ee9d727e3426c2757bf51b466160aff26f40535c19cd4729593"
+          "sha256": "a36863fd4a47cf02c124e4181f90bd39d5810b4290fb30d375f11cad47830547"
         },
         {
           "name": "bayram_sheep2_ask.m4a",
-          "sha256": "5ea3ed94146ff4af4c831348c53ad7708f1a036e142560eba68d4e376709ca08"
+          "sha256": "96d4d18d795c4b737919a46975b6e0e0bdacaf0d6e9181eb27a8497a92e135cf"
         },
         {
           "name": "bed_eyes.envelope.json",
-          "sha256": "5154e6dc281095987014f44dddca0cf7eba7f4ea04b1f3dadded2f6194ef2b79"
+          "sha256": "37261db73e9b348ce733f74404ca54378db12729cb3a4d039992793acb0f52af"
         },
         {
           "name": "bed_eyes.m4a",
-          "sha256": "fb875c0885496a76c0491096945090aaa9795f10296cdb407f9fc8b6900c8a0d"
+          "sha256": "9989af007bc3a8efb5e20a97a9240c4ce349e5626d6b9e6c1ccab39a86317d7f"
         },
         {
           "name": "bed_love.envelope.json",
-          "sha256": "1c65695f73025e0d1137a2e0fd2670de78b0925002ab6badfe2ef961b8388cba"
+          "sha256": "f67cf0b3416cd8359c67f5e7d15efcee10795a9ab71926562d927bbbcd2aeaa9"
         },
         {
           "name": "bed_love.m4a",
-          "sha256": "36f2c1a0c77254863eb26665222bdbc30db8850f1122ae74107ff1eced0e7bd3"
+          "sha256": "24902ec9e856534dee785edfee8177fb047469e0f8415c7bc365bc9502f811e4"
         },
         {
           "name": "bed_night.envelope.json",
-          "sha256": "aeb6658c4af4a9366c22ed3d68fb2001326cac1761b18142639aa71253929ced"
+          "sha256": "e61b110585385ab800b716cca3d53ab33828054d05673794c5d1df0bc0f41f95"
         },
         {
           "name": "bed_night.m4a",
-          "sha256": "1c304fbe358a41e6edf580d9093bbe7124f7d04d70d94cfb4dc661a8980a85d3"
+          "sha256": "9aadddd1fc5cafced93a42038aee026b3d435c13ea3452d863ea29f60850bf9a"
         },
         {
           "name": "bed_story.envelope.json",
-          "sha256": "f421fca648d8938b8668cdaed5a43bec3a0a49b8618e01df216dbcc137317ad7"
+          "sha256": "39782b2142347bda0d74c3bbaab869d5db8ee75a4bdb5dc40fe09ae5c81c69f9"
         },
         {
           "name": "bed_story.m4a",
-          "sha256": "85833bfa7a5cbeb82cbb7a2109af340527f95b0d5c07b1c21cb66eca5da1d5b2"
+          "sha256": "1d7a1312ba8953f912c85dd6e82d1a252b1b55e0446deb4d12e9d924675d8708"
         },
         {
           "name": "bed_time.envelope.json",
-          "sha256": "c1ff3396fed6127a614234374d9e504c8c8a703bdf9d186fe172f117b4340d0e"
+          "sha256": "01a8a973949e3e4afcbab287aa708eea0acdf7da6652d439e9d637e70d1622dc"
         },
         {
           "name": "bed_time.m4a",
-          "sha256": "93064a221edc824139dfa581ea680ab461f9cffb4a58681b8f4aea7c5f32fc3e"
+          "sha256": "7ffa2b35df4bf707a577a03395bdb31499fe50455d0a009d708ff28a573f5f3a"
         },
         {
           "name": "farm_cow.envelope.json",
-          "sha256": "a67da1aff78888916a2e2cd4dbc33fdc852f82f0750ccf4271ba05627df9a18c"
+          "sha256": "c254f0f7fbafac276ffa0fb88b9a028ad94bfef6de5d477a593af0a9bdb1e430"
         },
         {
           "name": "farm_cow.m4a",
-          "sha256": "1f67a4a9995b1ec82897d72dae7d0649999dbd070b02d7cb025beb645daadd9f"
+          "sha256": "074283896d1e24a8b39b8e1dbff1b99b03c6b9bb12aeb4e6088c352a5e8a4bc4"
         },
         {
           "name": "farm_cow_ask.envelope.json",
-          "sha256": "45ad77646b759bfa7d368940158b6c073a6352038a9dd3fd8a268f5974150af9"
+          "sha256": "a073a11ae9dcae2a94f9f9cdb9239587a8e255ac9549e9ca469e240dec7fd0ea"
         },
         {
           "name": "farm_cow_ask.m4a",
-          "sha256": "1066ed58522bee65f8d6ddd8fff9b32be1b3109bd609160c0f8a326243fd059f"
+          "sha256": "a411ad1b66a81fdadb702210ba1fcd67f3869931fc45e62fb2deea4eccf6e054"
         },
         {
           "name": "farm_dog.envelope.json",
-          "sha256": "f6aed3cca5474819ee9cf486e4432d6495e7c280c77351055dbdc8ab703eb3a2"
+          "sha256": "86d3d9784a0fa7b6b8f6f3736761028bffe88dffe88ba5de5a2cbfc74a9a9e28"
         },
         {
           "name": "farm_dog.m4a",
-          "sha256": "e9a4f44e91d357260c37bf375ac31a5e4941e39749dc9f9d706672eff58583be"
+          "sha256": "8e5a5d05772d775219ca4967e33e25f852fc28c0c3f21f937c25d90df218ed74"
         },
         {
           "name": "farm_dog_ask.envelope.json",
-          "sha256": "fe5fc544e70b35f8512ab62859f19c23fb1f74cf630c5c1709de6cfca9b2ffa9"
+          "sha256": "f80420b7594b573c5c7e8f52682922d5b8faa99d236a7238e7638ac719dfb39d"
         },
         {
           "name": "farm_dog_ask.m4a",
-          "sha256": "6d4bd4c9a3bc104b1fb79989c64ddd1b0e20bb33d275ab04f4f61985e3146a49"
+          "sha256": "2ed23f7c876b6217eef49c5b20db1d7c72977bde3da578765b9340dfd6e503f2"
         },
         {
           "name": "farm_hen.envelope.json",
-          "sha256": "b77b1c8f81decff81531f6888a58cb50f56d1facde875a101032a74a97234a16"
+          "sha256": "74b78f281bb501dd4f46525b68f4852b0a57593f9d97c21ecef620a83761c8eb"
         },
         {
           "name": "farm_hen.m4a",
-          "sha256": "6f93d0cd083598ff4eeb2090bcfce9a89e696d7dbc31e3a9a873c66260c30b7d"
+          "sha256": "31f91fcdd771e391e0d4d072d01f95fad17c8a340667364bd8564a6228475cb1"
         },
         {
           "name": "farm_hen_ask.envelope.json",
-          "sha256": "a7d141c466e2ae6d77fcc8211bab3b3acf2725a0e22695ad37a1cc1d3d07e700"
+          "sha256": "42475cdcb9b28cf68c93e7f1fea4036a2aceab52bf9cdc20d98dc77d68550b8f"
         },
         {
           "name": "farm_hen_ask.m4a",
-          "sha256": "990be6308f86f0d53e2df5d98d170a9aeb7eac9af8d1d129573a70623672a503"
+          "sha256": "c53bb647724bbd75ae3c793b7b86b2390d4f92c63653072f506591aadda4a42c"
         },
         {
           "name": "farm_horse.envelope.json",
-          "sha256": "41d0e5dfd2ecf7ba6f27a048e0f876e09d3f769c897efe07a98c303fac9882b0"
+          "sha256": "170ba5b2095f314269c349b9e4b7d0818c9a968cda1dbf061114227718692c0d"
         },
         {
           "name": "farm_horse.m4a",
-          "sha256": "17f3e79e48394fc62138de0ab39154c2da25d078eecafe0e1790ecb1c58c8cb8"
+          "sha256": "736fd97dd82e5be4aba7e23e4fd9c3ca4a64be2dcbb4179bc705c7a43c5c6c52"
         },
         {
           "name": "farm_horse_ask.envelope.json",
-          "sha256": "be74a7f5027bd5c31ad065d16f6db2780b386a290ec5fde8e049204948cf28d6"
+          "sha256": "adfb6ba786d747391b2b4deb1d8e3e5a4a68b24151c40526f084668b8cc10550"
         },
         {
           "name": "farm_horse_ask.m4a",
-          "sha256": "4ea310ccffc0f28974866bf3e645e8f47775cea5d99ba6d70187326c71f14ba7"
+          "sha256": "a31f61fa2fe801e3d3c521b8ef754269f2ae7175c5567820a9c35cb148b7c27f"
         },
         {
           "name": "farm_sheep.envelope.json",
-          "sha256": "5512bd4505ed50bf1cd189f7c08ecad298d923027b34a19aad311b164f1d6614"
+          "sha256": "4e7c34143141bd96a470adc23b44177052a97e2ecd056b17565151d9f8695edd"
         },
         {
           "name": "farm_sheep.m4a",
-          "sha256": "a10c4fccca6c5db3831d62d3e6d7cf9cd22e043e42cb7449b3c1d02846b4ba5c"
+          "sha256": "f5a122ad0fd2df16db68d8c3411eeb9003b8c1d140330b71850a6843fd9e421e"
         },
         {
           "name": "farm_sheep_ask.envelope.json",
-          "sha256": "7090223c47415d35b95e58a09492b28c5844409cb8febbef3c5b35bb1962b4be"
+          "sha256": "f2c3e158cb8896ef39d89003870624f0c04b770ebc600cbf1f4c836c87292bac"
         },
         {
           "name": "farm_sheep_ask.m4a",
-          "sha256": "d02ce9b78b06ff1480762f2451ca2178796eb0ed605016ca44bbbc1da04f6c89"
+          "sha256": "2537d9a05fdce3c5cf5287748483ebd8543c95a3305261b29225046f12f78a5a"
         },
         {
           "name": "forest_bear.envelope.json",
-          "sha256": "5192b4bd1b39d7870a6a6909821cb78f5b49982749bb71f208dc291b66158cfe"
+          "sha256": "c16de9c01e37f85f86e43fd96f504b15ca17b26d5454ab9fee6c1036ac61a2db"
         },
         {
           "name": "forest_bear.m4a",
-          "sha256": "654a25f59b7013bc901e5bd1dae67ae0d3112457b161ca1a42d3e1c872aef04f"
+          "sha256": "df3e3cbb3956a81510ec0339cacf2d49aa20d07a6ad80f0900d40f43f11d11cb"
         },
         {
           "name": "forest_bear_ask.envelope.json",
-          "sha256": "81723170fb750f21e40f893db7eb6d02a5b0432da5b725ebfb47d95a68959d1c"
+          "sha256": "667dd1d9e82c7e05217c8a9a081c5cbebee3c8b57c5c36dfc696f1c4a010231f"
         },
         {
           "name": "forest_bear_ask.m4a",
-          "sha256": "6aece8f314ef4dc89e46326c04de6e232807cb2f997dc15c41755dbdde79d23d"
+          "sha256": "969dff4571feeb67936d1347b0a5324cc9d562cb67be97a3be3a7935d72be2fb"
         },
         {
           "name": "forest_bird.envelope.json",
-          "sha256": "bab578bcce18bc5c003086cd30c87507280fff5d304c64299af6e01e5d8d6a06"
+          "sha256": "a514c85ae990b7d2fa2d8c9db918385fab4b53ae51320469459a9d7e4eadf210"
         },
         {
           "name": "forest_bird.m4a",
-          "sha256": "bf11215323f89b2d7a0aa19d6fa3bec7b4aa7840e8aca2edbf9c190f23fde717"
+          "sha256": "7c7888fecdef6e2f207b65817fcd658c5df238b9a7679dc026cc2bd5f24959dd"
         },
         {
           "name": "forest_bird_ask.envelope.json",
-          "sha256": "392b909ab1eb800b76711e9974e35fc5723b8b55dd2792693c286456cf44e276"
+          "sha256": "21cd185f95e0bc7929383407821f9c4713f14c59ad6af2857ab6b30abeb9435e"
         },
         {
           "name": "forest_bird_ask.m4a",
-          "sha256": "c64a972c694981279320454b45d35a9560fd003255ceeb6e5c3367315e53873b"
+          "sha256": "2553c94ee7990a406e7d439f44f5d4d1351daeff0dd95e1af4e4a102590d3490"
         },
         {
           "name": "forest_fox.envelope.json",
-          "sha256": "20f2daf619167e39a9b2533e895841359c1afadd0ad9fe0aae7e5cec37f2e8e0"
+          "sha256": "6b3bff33ae3e6afa8aaa3cd582fef9c5e2ba4154ff66ea063035f5806ac212a6"
         },
         {
           "name": "forest_fox.m4a",
-          "sha256": "5ec2ff5f60585e32207b7252d487444b1c0eadba9099e4e335cfbcb8e520fc7b"
+          "sha256": "26efdfb165620953dd204639f034ee5200b7f9d10bc1c54cdb2a8a7b6c9cd9f5"
         },
         {
           "name": "forest_fox_ask.envelope.json",
-          "sha256": "21668db73ecbe5221ad8f6cf651bbd5400efe9d08946da875e5ae2fa72aa774f"
+          "sha256": "7e506f4fd5b917bbca20dcb154d3a13b9433d206791f113430942ad5988fbf73"
         },
         {
           "name": "forest_fox_ask.m4a",
-          "sha256": "81b370c2bdc9b02cc4575c890f186df9abeafbc12194bc75ab0f3c91279263f0"
+          "sha256": "238e528758acebb91fbc5f6b02352c2a31f9becb2dcc3e54212016f101dc18e5"
         },
         {
           "name": "home_bird2.envelope.json",
-          "sha256": "3dfbb3811534b29b9511ea2e703f1fc2914e859f76c528180b1d4e5e920b4ebc"
+          "sha256": "25c0546c773f42523ad8030db5b1ca2b9fd1e7e94afa9ed6384fdda93c40d889"
         },
         {
           "name": "home_bird2.m4a",
-          "sha256": "2eec8d64e05e8f1d7a90f13f50e3b88bdd3291935ee50f37f5c10ab40ac8fa16"
+          "sha256": "9125698f29965322711709fd7ddf4b5bceaabac3d40ed6ef9c382d8a7db95b80"
         },
         {
           "name": "home_bird2_ask.envelope.json",
-          "sha256": "7415bed0d6ae6def0d40087ddda790d0ceab3a951c9352fb874ae2fd81cdd687"
+          "sha256": "2de9384d572965a7a5410316d9e5d0ee54962b218bce4cee8523c41943c4913c"
         },
         {
           "name": "home_bird2_ask.m4a",
-          "sha256": "07575da182d283805be92573478f9936dc627898855f5722f277d79a23bfca22"
+          "sha256": "f40c68fec7728181e50f319d366e3d8cce86f8537fa7048d9d7316610a72f1eb"
         },
         {
           "name": "home_cat.envelope.json",
-          "sha256": "fccc5f8ec078c03dafec9469b89731cc9a46ff5f46bdf536b74dac19868d5d29"
+          "sha256": "2370f3e0384011b0fd75a0918ec555bbe332bd4a6d35d46b69d0af39cbcd5601"
         },
         {
           "name": "home_cat.m4a",
-          "sha256": "8926e664810d8d964321f064a72f43f94f46b7af188264e1578d87b30037e818"
+          "sha256": "829ca0abf51feeb3a8820a8e13507bdcddd403d3011c748b07ab8cd2499f1ebd"
         },
         {
           "name": "home_cat_ask.envelope.json",
-          "sha256": "74dcfeb547afeff1681a9ba8b4e839cc20f20aef9ebe14b0fc949a8d328dd7b9"
+          "sha256": "b0186b41aebe64ecd6ffef7c1fdfc8fb0c4d9a57cd8fbbeddfad005d3941bcab"
         },
         {
           "name": "home_cat_ask.m4a",
-          "sha256": "a259b9e6f356aa72d26f5ef05bbd8f779a0b8a5ed671a24dbe9499be9a93eda9"
+          "sha256": "3b7fd773218039071e35ba760339e28bcc7a46aa39d6e003622d68ea55a2f493"
         },
         {
           "name": "home_dog2.envelope.json",
-          "sha256": "0b6fd93fd5056a2838f769a4b310bfb0f88029f8247dd70cb885f098df4aa0c0"
+          "sha256": "453af191b1284d5856aa1c0f6a666b532593c0d37329bc7dc2ce37ad306bc960"
         },
         {
           "name": "home_dog2.m4a",
-          "sha256": "6339400f47e5dd9c4861438a325dc0f26dc0981b68d9a6449504c9dd440c124f"
+          "sha256": "2d83a5b91fa0cc4ac4538d7d740faa2fe8973b2315f9c1d4d3084cb5289aee22"
         },
         {
           "name": "home_dog2_ask.envelope.json",
-          "sha256": "b5dc961f1e52c370974baa2b183ca5990ae2db3407bdbe441edac5f889910e5b"
+          "sha256": "1f4db8b892977b7d8dab32bd192c9a9129dae8568540889c1343c9fa70827b6e"
         },
         {
           "name": "home_dog2_ask.m4a",
-          "sha256": "8079ded6faa0ad1c85daed3f1128609b95f391f28d1b832c22dde76d2e01832e"
+          "sha256": "0a899fe756fdf942a661fce14bcdd7dc40ec2cadabc138c6e50ff83c151b094a"
         },
         {
           "name": "morning_bear.envelope.json",
-          "sha256": "f1055464134b7130249780ad0cc265dd3df87e1f2e1d1119c35ea4a73187c718"
+          "sha256": "ee188333017f02776ce75bedb763c31cb0f99ef5aa181354d852ab159271298b"
         },
         {
           "name": "morning_bear.m4a",
-          "sha256": "f0be19bdc249eab3b9a25b90200e2eb379d937c57aad21ea8732a6e0a499631f"
+          "sha256": "85dd1a33dcc145acdd63068e2c1d635fe10ac82db54421faf74446549ebf7bb9"
         },
         {
           "name": "morning_bear_ask.envelope.json",
-          "sha256": "b6109d34ef525df7e0527a2c752ffde8aca442f13f21997183d18c8e2506218d"
+          "sha256": "4b517d428e04c3a76891fd67b48578134b1b81c36e9b642868a8811d3e4222fb"
         },
         {
           "name": "morning_bear_ask.m4a",
-          "sha256": "5fe6e7d5cb7468846833d931a75ef75fda83ec1f1f742bfe8708de8bb0538a85"
+          "sha256": "e66440abf6d8e9746786995138faf264b857f7cd9a8e87d8e64821ff24eb9c29"
         },
         {
           "name": "morning_cat.envelope.json",
-          "sha256": "dd7ed8ba7c7e562433ccffd4f050c79e3bfeb7c8a7d70fe70be5e168ce0068bf"
+          "sha256": "1bb9e8f1e458d8bfcfc3c74b85c51dc94cbf436fa97164eb9f6fc18305d7637f"
         },
         {
           "name": "morning_cat.m4a",
-          "sha256": "55d5980ae7f0e7714db2ad7d4c5763fd3b72b122c02e0f620aa9e7e6502fd82f"
+          "sha256": "054b1b996ae7c60b2511521037d5fbca84ff0ce0efd0500f877934754f1491d0"
         },
         {
           "name": "morning_cat_ask.envelope.json",
-          "sha256": "f0fe2c0cebda7e19f18ca569d2fb3ac75d3b6b1f8b70575bf1f8efca80dc310c"
+          "sha256": "eb050c1ef8b227c0f5c349079586bc20e8199be36af77f0ec17f2b5b02153ff0"
         },
         {
           "name": "morning_cat_ask.m4a",
-          "sha256": "2ac9b4637189547d71f69ee1439136198d1df10863d7124c01f5c7e4d4728dc0"
+          "sha256": "49288af9a4e64bdaebfc23915b68ff054e4a2a07d34beed97a975630191aeca3"
         },
         {
           "name": "morning_eat.envelope.json",
-          "sha256": "9945a0db5cc712f7a9bc6bf4ddb70b65b76239d2fe07445914c473069edfe310"
+          "sha256": "a842706ffc558f7a6ca4f655bf4e4d93cc17141b33912e18740f89832f9ebbbd"
         },
         {
           "name": "morning_eat.m4a",
-          "sha256": "0e5b0e77b2f22c8a0cd878d0f811cf12a802b8b01169d9516025eec584a598eb"
+          "sha256": "d68fb0c1c01652d7a36f56b861ec44e7f70f5a41b8a9648adc4df6875db09da5"
         },
         {
           "name": "morning_hello.envelope.json",
-          "sha256": "d429742ed3c6a3dec760958dce8dc45f473ad9c824669726a605177da2218c09"
+          "sha256": "22c6d23cd17cf018d1b130185a7270ba7bd2aef51a6307d58ff5e2a015c37056"
         },
         {
           "name": "morning_hello.m4a",
-          "sha256": "30eaf4d34226f342fb3a5296344b244858e34c332cb025bc0a457b97248f4d7c"
+          "sha256": "2ea3f310d559369fef32df3205de7a2cb7465ab2d194eb8236d01663e76f7eb8"
         },
         {
           "name": "morning_rooster.envelope.json",
-          "sha256": "5b39f809ea2c91ccc59756fd16edb5670333fd471028bc2e611094b0193fe568"
+          "sha256": "14e1d3ea64ab440943991cd00f680d05fef76627c0d16c468c5c8e4ed21618bd"
         },
         {
           "name": "morning_rooster.m4a",
-          "sha256": "6adaab008c3890c26a06ccbe8b93ab1aa3032fa92fc1fd478f449aa35283d60a"
+          "sha256": "c64fe1caf755d875be30071a91a3e72f6ac85ec098fcce486362b6588c9b6729"
         },
         {
           "name": "morning_rooster_ask.envelope.json",
-          "sha256": "a9c5bd45e0e4aa2dd4f1d7dea6ac8a1581d4e8d94e9a8ec8d412f9e1f5e34f0b"
+          "sha256": "c7088ab1fcbe6adf96f0adee7d0777328c3955202484f12f231556f824a36fcd"
         },
         {
           "name": "morning_rooster_ask.m4a",
-          "sha256": "b6330e1fdc3371eb2a7c5b544415de0d429c4272016ccc8bb42dc89007516c0e"
+          "sha256": "5a23672cb90dbb18ef6898bad65d8d941fbdd92411da752a569b337d8a43063b"
         },
         {
           "name": "morning_tasty.envelope.json",
-          "sha256": "dc95faa7480539a62169b0f9971e2cd2091ab18f6b204b18a30f18e087221a02"
+          "sha256": "b5ec7707e2c8251302c6246ffc6a2fb4526219856354a83142937f8ab36ef88a"
         },
         {
           "name": "morning_tasty.m4a",
-          "sha256": "b4c88c96703556e9212dff141e0fd9aced0a4fc37a2689f91a54a021c3f8a8f1"
+          "sha256": "d62c6d3ed3a1ab2930a73e7f050b662754d85c19ae285c66d69d13359061f4ff"
         },
         {
           "name": "morning_wake.envelope.json",
-          "sha256": "b781d0111be4fe77b56dc36143f9111ac01673e7effc14ca405587da2e0ca530"
+          "sha256": "13aac731cac7a6d6309e2a732e43787ef3443fc025f88cfb6049fbe07ea09361"
         },
         {
           "name": "morning_wake.m4a",
-          "sha256": "46526a13b1bb82cf78aee9819edf54353470b775cf780bc4f21f84a4dc2cbd31"
+          "sha256": "c9fd3572e96cee86f8e9d0f892df1522e29eed68e16b5a796c0acb6e417332e9"
         },
         {
           "name": "morning_wash.envelope.json",
-          "sha256": "bea652c4dfe0825da897ba084cc759be77ed63aa5ead7ac962aa6d81f40806fd"
+          "sha256": "fdc827c15281330383c3c38e73d84295682fac25283d011f3352b8a1363811ee"
         },
         {
           "name": "morning_wash.m4a",
-          "sha256": "731ffd0f91a200a6ed6b08b03a7c70b44201122832e066781f38c53cd3a7ed5e"
+          "sha256": "2f281f4aaffd81bebb8def6f386f44a09146181b21c22c5a7baff07ad5ab7dd4"
         },
         {
           "name": "night_bird.envelope.json",
-          "sha256": "dfafb6827619de4511782f2f38b538f356abcf0e4a508cb675cf1ded91269c27"
+          "sha256": "af75b701f7471b0a4a398f0786944838d825fa7ef0073dbe835ce7f8a9f270fa"
         },
         {
           "name": "night_bird.m4a",
-          "sha256": "6c8f42a5a54d3da42e59ad7ee8ac56494efe78076bcac41c4ca532657de1cf85"
+          "sha256": "dfcf04addc99621ad398b3c2f30614d5f7cd4f7f4c864a4ba7173e953d97e198"
         },
         {
           "name": "night_bird_ask.envelope.json",
-          "sha256": "125366d3c667388ac9d72a5e68b4ade2d0601c775f905bddb5cc07e7696c5351"
+          "sha256": "656723922b156dd8372e601bb361b2a647a04179473fcefc45e5d3e074ae5dca"
         },
         {
           "name": "night_bird_ask.m4a",
-          "sha256": "318f9639fe6984c6f1c6a1fde9f81ea7f41b150964cb5ac061b4072825a3409b"
+          "sha256": "9728572e81cae4f99ed014887244f53a9b0d581e76299675e7b2ead2c2e3aa7d"
         },
         {
           "name": "night_dog.envelope.json",
-          "sha256": "964a28aa6a70e6cd6443f77c2bedfe0c9f4b9080e5d512390af0e8ff226e9744"
+          "sha256": "362884c8cdd2897cc665a03c6379d91db4cbf5c376d06ca356ba4834573b656f"
         },
         {
           "name": "night_dog.m4a",
-          "sha256": "4427db07a9f2df16b9bce19ebff8bfb30ce4d3351f84d1fa7aa629566c1b871b"
+          "sha256": "c728f78d336160f330189b692d0ccd036035f9f6d069e748ecce0ac11fc4febb"
         },
         {
           "name": "night_dog_ask.envelope.json",
-          "sha256": "4037b7170353aa3d7dc8f09b7e20aba057a9b022dec5a337e408b5c0ffe6f51c"
+          "sha256": "9ec8362f0aadc44024822a1ec77ea21d92134827bc1f85077d11c8adbf18c0da"
         },
         {
           "name": "night_dog_ask.m4a",
-          "sha256": "2db8f349587f0521e21b855436d649f429399ab6fba386344999aa2aa7e54f62"
+          "sha256": "c7d45ccc29d0e4c06c9fc444307175e0fc6182187a17718076644485c426f35b"
         },
         {
           "name": "night_sheep.envelope.json",
-          "sha256": "1da106ec2a4379ed8ae7e376038b91ed0435c59b45d9365c0b048edf41e2c63f"
+          "sha256": "59953e1eb99f488c125cdec0c247bf9a59104fda343f615ec6ba19f8271711d0"
         },
         {
           "name": "night_sheep.m4a",
-          "sha256": "c7bac1fc5c3a52fafc2882688a949c2045c8b03c0d5345df0d8fb112a8a2f054"
+          "sha256": "fb1a998644541bc2977dc88505fb65cc0b25796c139d333420740938512494d7"
         },
         {
           "name": "night_sheep_ask.envelope.json",
-          "sha256": "0789f206380fcde8d9fbc111f2fc53609915d282472884527061a7960411e4c2"
+          "sha256": "82b7f3e91882c67eb76608d039fefd95661197da9270881abcfe2f46d0f31c07"
         },
         {
           "name": "night_sheep_ask.m4a",
-          "sha256": "59dc99082870af710e1ae0c17bc3bc01ce03a3f9ed5a3a987ea16286d8343b84"
+          "sha256": "efe268848911c6fe0d22309ef01a55ac443a09c963eb062239370571c76f21ef"
         },
         {
           "name": "pack.json",
-          "sha256": "7075a521799966deba1c0b6c1f86aa13c04bf9c13750bfff21df1a1da5175e2d"
+          "sha256": "a66478e41482fe41ea3e6d1e2ac80a99fa0f50e53d5a7d97591db3bd9b2b45bb"
         },
         {
           "name": "toratau_eagle.envelope.json",
-          "sha256": "f3e5a96b27e3cb186ac3694923e4af3f8a8c220a9608c83a1269599963215e5e"
+          "sha256": "999fedde0324d24718ceb2ad58cfa887454fe7a284d19177c468e16d42cb5ab5"
         },
         {
           "name": "toratau_eagle.m4a",
-          "sha256": "3000fdf2408fcdfa77efc444c708d04b63336cc4d6e480cc5a0c736dba087659"
+          "sha256": "71a53f8887da5667192cd991d3ef2620935c4b5ba92445c60fc79435be6a09d1"
         },
         {
           "name": "toratau_eagle_ask.envelope.json",
-          "sha256": "1d8bb6a8f7c3499d3940b17be0b9271e1d794bb856b430be6f3cc6b27344bc9e"
+          "sha256": "b673454397a1b5cff9f16a23f47ef10bd1eb5bf66a0e40ebda7055546ed4a15c"
         },
         {
           "name": "toratau_eagle_ask.m4a",
-          "sha256": "e8c09d1fb9934e808db2c667b024a0cedf438511b7ccbb464fc19e53616152b6"
+          "sha256": "3f399d0234ee2a2139ec99dbebfbb756349deed46aa563837f3faec62b1a7c9f"
         },
         {
           "name": "toratau_horse.envelope.json",
-          "sha256": "a3d9abec86031d1d1a1e52694c01b0cf0b5ddf2aa892f77092ab5626bf41280d"
+          "sha256": "ec434a6714205254923c31c3a5f22660cac6032dbac548e33d4964492431522d"
         },
         {
           "name": "toratau_horse.m4a",
-          "sha256": "33585757154a99b6224e1e30e45f3c3421a9a7e6e02f31e604ec225e86ec269b"
+          "sha256": "4110688b632109a9a9e007355c07cce0b4b88129092b669a85173a00823eaa86"
         },
         {
           "name": "toratau_horse2_ask.envelope.json",
-          "sha256": "8ab3dc2b65b970c220ba99f07008ee2d4394d8372bb879a7d566e1000342765d"
+          "sha256": "1208d1406ae6ac9c6a43116ab52a93f38254276d446f4e951be22a1634671863"
         },
         {
           "name": "toratau_horse2_ask.m4a",
-          "sha256": "5a2383c7f76780ef8e58d82db53a4b8441c41d09ece3d9ced2a71bfdd184e3d4"
+          "sha256": "659b9eb3ceea1f3ef2b1c93bcb365583d6813e730b59376e7f13b46673426da6"
         },
         {
           "name": "winter_bear.envelope.json",
-          "sha256": "784062944cca4d4314bd041dca446e9aff59d20843e6af6862d27c06b10064fe"
+          "sha256": "99162f886f6b3215714161fa2e3218ddc32656feef577960f90afd7859a3f462"
         },
         {
           "name": "winter_bear.m4a",
-          "sha256": "a82a252b351581d9faf6ed0b808a2138ff8c6dfcbd04fe6af7533c4d53192a1e"
+          "sha256": "7d7b5da3fa71475dc3b5a388a17f2897f45ca110f085e09515b8767483301e2e"
         },
         {
           "name": "winter_bear_ask.envelope.json",
-          "sha256": "a9fa5f6202459b87f79bec5ae2f1bc2d03cfda2abdf65e2a45ef8e1c10f5e4c4"
+          "sha256": "b8aea532f713cf09530fd73e0d5d8ab64b3c18ab0773d39cce3f364c865ffd8c"
         },
         {
           "name": "winter_bear_ask.m4a",
-          "sha256": "debf27d36908d9f9ea197f6e4408d0b6f73426e6971536de51635248a5694253"
+          "sha256": "7ae900b52393ead4912515ae3f83b1eed2ee4f303c31a334c42f2bde337f8052"
         },
         {
           "name": "winter_bird.envelope.json",
-          "sha256": "7390317172e36218d3fbc4a3a1a9876ad0cb85255990bfd4ef9b14ef60cb7e58"
+          "sha256": "aecb0b9c664cff78adec15ce918a6e132fa4524d6ad0178aae2d3ab3584f7144"
         },
         {
           "name": "winter_bird.m4a",
-          "sha256": "bf9a56767fbe2db36950624b6ccd550b8ddae35f3c354456276a2d9079b62bf5"
+          "sha256": "4e9959d76d0408414028602e427635f6bdfe1f91ba88b47121045ef08a515872"
         },
         {
           "name": "winter_bird_ask.envelope.json",
-          "sha256": "ae3c69f43c4f5bb93a3b4fdfa2ef00f77785ff2285178d5ea1a7afaa2aa3eb9a"
+          "sha256": "da8d71be07c9784a68994eb77d334c5c906764c25abba0fa5b0bde19440ed6e4"
         },
         {
           "name": "winter_bird_ask.m4a",
-          "sha256": "eb1ff17a98a2dafae6e7050d35a82eb7734adcb1e845e66fc7eea06fc9043fca"
+          "sha256": "88883a359fe7988ca47ae237f28d19c64517a435e0bd38f97a9273f3194a9e90"
         },
         {
           "name": "winter_fox.envelope.json",
-          "sha256": "cba72dfe30c657388ad5db5a0ff64d4120abf67eee126f350a59353303e40729"
+          "sha256": "d007de8ff40d700b389a0dea616c4a72d391c3ad6f4024a27a4f236ce7bf586e"
         },
         {
           "name": "winter_fox.m4a",
-          "sha256": "e95dffb3bb786be56bf32c4bcc1fe07fbe5eebbc6b7f35d851aca3596d7e2015"
+          "sha256": "95e1f9542917f473f55c8b070736659cd1758b1696014275a860e627ee1ed15a"
         },
         {
           "name": "winter_fox_ask.envelope.json",
-          "sha256": "859242cf25dc14a70c58b882b5754ab3ece5de5b5f361d08f25bd1877c8b834d"
+          "sha256": "fb673e647f696c8814a88d637877a04d11f0c0974c01af1d077f7b4574c5e980"
         },
         {
           "name": "winter_fox_ask.m4a",
-          "sha256": "c91f0589bb4cbd09f926ddcef42dc9d4dbbab0fc885af1a7d0cc0246dcaed767"
+          "sha256": "63497c2c396288dfda41f4d5063bb16c127fe3fcb6a5202c010eeabf616fa27f"
         }
       ]
     }

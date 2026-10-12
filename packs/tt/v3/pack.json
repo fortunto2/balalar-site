@@ -1,0 +1,990 @@
+{
+  "schema": 1,
+  "id": "tt-core",
+  "lang": "tt",
+  "version": 3,
+  "scenes": [
+    {
+      "id": "farm",
+      "title": "Авыл",
+      "gloss": {
+        "ru": "Деревня",
+        "en": "Village"
+      },
+      "background": "farm",
+      "free": true,
+      "items": [
+        {
+          "id": "cow",
+          "character": "cow",
+          "phrase": {
+            "text": "Сыер му-у ди",
+            "translit": "сыер му-у ди",
+            "gloss": {
+              "ru": "Корова мычит",
+              "en": "The cow moos"
+            },
+            "audio": "farm_cow",
+            "envelope": "farm_cow.envelope"
+          },
+          "position": {
+            "x": 0.3,
+            "y": 0.58,
+            "scale": 1.0
+          },
+          "ask": {
+            "text": "Сыер кайда?",
+            "translit": "сыер кайда",
+            "gloss": {
+              "ru": "Где корова?",
+              "en": "Where is the cow?"
+            },
+            "audio": "farm_cow_ask",
+            "envelope": "farm_cow_ask.envelope"
+          }
+        },
+        {
+          "id": "sheep",
+          "character": "sheep",
+          "phrase": {
+            "text": "Сарык бә-ә ди",
+            "translit": "сарык бә-ә ди",
+            "gloss": {
+              "ru": "Овца блеет",
+              "en": "The sheep bleats"
+            },
+            "audio": "farm_sheep",
+            "envelope": "farm_sheep.envelope"
+          },
+          "position": {
+            "x": 0.74,
+            "y": 0.68,
+            "scale": 0.85
+          },
+          "ask": {
+            "text": "Сарык кайда?",
+            "translit": "сарык кайда",
+            "gloss": {
+              "ru": "Где овца?",
+              "en": "Where is the sheep?"
+            },
+            "audio": "farm_sheep_ask",
+            "envelope": "farm_sheep_ask.envelope"
+          }
+        },
+        {
+          "id": "horse",
+          "character": "horse",
+          "phrase": {
+            "text": "Ат чаба",
+            "translit": "ат чаба",
+            "gloss": {
+              "ru": "Лошадь скачет",
+              "en": "The horse gallops"
+            },
+            "audio": "farm_horse",
+            "envelope": "farm_horse.envelope"
+          },
+          "position": {
+            "x": 0.5,
+            "y": 0.82,
+            "scale": 0.8
+          },
+          "ask": {
+            "text": "Ат кайда?",
+            "translit": "ат кайда",
+            "gloss": {
+              "ru": "Где лошадь?",
+              "en": "Where is the horse?"
+            },
+            "audio": "farm_horse_ask",
+            "envelope": "farm_horse_ask.envelope"
+          }
+        },
+        {
+          "id": "dog",
+          "character": "dog",
+          "phrase": {
+            "text": "Эт өрә",
+            "translit": "эт өрә",
+            "gloss": {
+              "ru": "Собака лает",
+              "en": "The dog barks"
+            },
+            "audio": "farm_dog",
+            "envelope": "farm_dog.envelope"
+          },
+          "ask": {
+            "text": "Эт кайда?",
+            "translit": "эт кайда",
+            "gloss": {
+              "ru": "Где собака?",
+              "en": "Where is the dog?"
+            },
+            "audio": "farm_dog_ask",
+            "envelope": "farm_dog_ask.envelope"
+          },
+          "position": {
+            "x": 0.84,
+            "y": 0.4,
+            "scale": 0.7
+          }
+        },
+        {
+          "id": "hen",
+          "character": "chicken",
+          "phrase": {
+            "text": "Тавык кыткылдый",
+            "translit": "тавык кыткылдый",
+            "gloss": {
+              "ru": "Курица кудахчет",
+              "en": "The hen clucks"
+            },
+            "audio": "farm_hen",
+            "envelope": "farm_hen.envelope"
+          },
+          "ask": {
+            "text": "Тавык кайда?",
+            "translit": "тавык кайда",
+            "gloss": {
+              "ru": "Где курица?",
+              "en": "Where is the hen?"
+            },
+            "audio": "farm_hen_ask",
+            "envelope": "farm_hen_ask.envelope"
+          },
+          "position": {
+            "x": 0.18,
+            "y": 0.86,
+            "scale": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "id": "forest",
+      "title": "Урман",
+      "gloss": {
+        "ru": "Лес",
+        "en": "Forest"
+      },
+      "background": "forest",
+      "free": true,
+      "items": [
+        {
+          "id": "bear",
+          "character": "bear",
+          "phrase": {
+            "text": "Аю йоклый",
+            "translit": "аю йоклый",
+            "gloss": {
+              "ru": "Медведь спит",
+              "en": "The bear sleeps"
+            },
+            "audio": "forest_bear",
+            "envelope": "forest_bear.envelope"
+          },
+          "position": {
+            "x": 0.5,
+            "y": 0.66,
+            "scale": 1.0
+          },
+          "ask": {
+            "text": "Аю кайда?",
+            "translit": "аю кайда",
+            "gloss": {
+              "ru": "Где медведь?",
+              "en": "Where is the bear?"
+            },
+            "audio": "forest_bear_ask",
+            "envelope": "forest_bear_ask.envelope"
+          }
+        },
+        {
+          "id": "bird",
+          "character": "bird",
+          "phrase": {
+            "text": "Кош сайрый",
+            "translit": "кош сайрый",
+            "gloss": {
+              "ru": "Птица поёт",
+              "en": "The bird sings"
+            },
+            "audio": "forest_bird",
+            "envelope": "forest_bird.envelope"
+          },
+          "ask": {
+            "text": "Кош кайда?",
+            "translit": "кош кайда",
+            "gloss": {
+              "ru": "Где птица?",
+              "en": "Where is the bird?"
+            },
+            "audio": "forest_bird_ask",
+            "envelope": "forest_bird_ask.envelope"
+          },
+          "position": {
+            "x": 0.22,
+            "y": 0.42,
+            "scale": 0.6
+          }
+        },
+        {
+          "id": "fox",
+          "character": "fox",
+          "phrase": {
+            "text": "Төлке йөгерә",
+            "translit": "төлке йөгерә",
+            "gloss": {
+              "ru": "Лиса бежит",
+              "en": "The fox runs"
+            },
+            "audio": "forest_fox",
+            "envelope": "forest_fox.envelope"
+          },
+          "ask": {
+            "text": "Төлке кайда?",
+            "translit": "төлке кайда",
+            "gloss": {
+              "ru": "Где лиса?",
+              "en": "Where is the fox?"
+            },
+            "audio": "forest_fox_ask",
+            "envelope": "forest_fox_ask.envelope"
+          },
+          "position": {
+            "x": 0.78,
+            "y": 0.8,
+            "scale": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "title": "Өй",
+      "gloss": {
+        "ru": "Дом",
+        "en": "Home"
+      },
+      "background": "home",
+      "free": true,
+      "items": [
+        {
+          "id": "cat",
+          "character": "cat",
+          "phrase": {
+            "text": "Песи ашый",
+            "translit": "песи ашый",
+            "gloss": {
+              "ru": "Кошка ест",
+              "en": "The cat eats"
+            },
+            "audio": "home_cat",
+            "envelope": "home_cat.envelope"
+          },
+          "position": {
+            "x": 0.5,
+            "y": 0.68,
+            "scale": 1.0
+          },
+          "ask": {
+            "text": "Песи кайда?",
+            "translit": "песи кайда",
+            "gloss": {
+              "ru": "Где кошка?",
+              "en": "Where is the cat?"
+            },
+            "audio": "home_cat_ask",
+            "envelope": "home_cat_ask.envelope"
+          }
+        },
+        {
+          "id": "dog2",
+          "character": "dog",
+          "phrase": {
+            "text": "Эт йоклый",
+            "translit": "эт йоклый",
+            "gloss": {
+              "ru": "Собака спит",
+              "en": "The dog sleeps"
+            },
+            "audio": "home_dog2",
+            "envelope": "home_dog2.envelope"
+          },
+          "ask": {
+            "text": "Эт кайда?",
+            "translit": "эт кайда",
+            "gloss": {
+              "ru": "Где собака?",
+              "en": "Where is the dog?"
+            },
+            "audio": "home_dog2_ask",
+            "envelope": "home_dog2_ask.envelope"
+          },
+          "position": {
+            "x": 0.8,
+            "y": 0.82,
+            "scale": 0.8
+          }
+        },
+        {
+          "id": "bird2",
+          "character": "bird",
+          "phrase": {
+            "text": "Кош очып китте",
+            "translit": "кош очып китте",
+            "gloss": {
+              "ru": "Птица улетела",
+              "en": "The bird flew away"
+            },
+            "audio": "home_bird2",
+            "envelope": "home_bird2.envelope"
+          },
+          "ask": {
+            "text": "Кош кайда?",
+            "translit": "кош кайда",
+            "gloss": {
+              "ru": "Где птица?",
+              "en": "Where is the bird?"
+            },
+            "audio": "home_bird2_ask",
+            "envelope": "home_bird2_ask.envelope"
+          },
+          "position": {
+            "x": 0.18,
+            "y": 0.4,
+            "scale": 0.55
+          }
+        }
+      ]
+    },
+    {
+      "id": "morning",
+      "title": "Иртә",
+      "gloss": {
+        "ru": "Утро",
+        "en": "Morning"
+      },
+      "background": "morning",
+      "free": true,
+      "items": [
+        {
+          "id": "rooster",
+          "character": "chicken",
+          "phrase": {
+            "text": "Хәерле иртә!",
+            "translit": "хәерле иртә",
+            "gloss": {
+              "ru": "Доброе утро!",
+              "en": "Good morning!"
+            },
+            "audio": "morning_rooster",
+            "envelope": "morning_rooster.envelope"
+          },
+          "ask": {
+            "text": "Тавык кайда?",
+            "translit": "тавык кайда",
+            "gloss": {
+              "ru": "Где курица?",
+              "en": "Where is the hen?"
+            },
+            "audio": "morning_rooster_ask",
+            "envelope": "morning_rooster_ask.envelope"
+          },
+          "position": {
+            "x": 0.22,
+            "y": 0.62,
+            "scale": 0.85
+          }
+        },
+        {
+          "id": "bear",
+          "character": "bear",
+          "phrase": {
+            "text": "Тор, кояшым!",
+            "translit": "тор, кояшым",
+            "gloss": {
+              "ru": "Вставай, солнышко!",
+              "en": "Wake up, sunshine!"
+            },
+            "audio": "morning_bear",
+            "envelope": "morning_bear.envelope"
+          },
+          "ask": {
+            "text": "Аю кайда?",
+            "translit": "аю кайда",
+            "gloss": {
+              "ru": "Где медведь?",
+              "en": "Where is the bear?"
+            },
+            "audio": "morning_bear_ask",
+            "envelope": "morning_bear_ask.envelope"
+          },
+          "position": {
+            "x": 0.55,
+            "y": 0.74,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "cat",
+          "character": "cat",
+          "phrase": {
+            "text": "Битеңне ю",
+            "translit": "битеңне ю",
+            "gloss": {
+              "ru": "Умой лицо",
+              "en": "Wash your face"
+            },
+            "audio": "morning_cat",
+            "envelope": "morning_cat.envelope"
+          },
+          "ask": {
+            "text": "Песи кайда?",
+            "translit": "песи кайда",
+            "gloss": {
+              "ru": "Где кошка?",
+              "en": "Where is the cat?"
+            },
+            "audio": "morning_cat_ask",
+            "envelope": "morning_cat_ask.envelope"
+          },
+          "position": {
+            "x": 0.83,
+            "y": 0.66,
+            "scale": 0.85
+          }
+        }
+      ]
+    },
+    {
+      "id": "winter",
+      "title": "Кыш",
+      "gloss": {
+        "ru": "Зима",
+        "en": "Winter"
+      },
+      "background": "winter",
+      "free": true,
+      "items": [
+        {
+          "id": "bear",
+          "character": "bear",
+          "phrase": {
+            "text": "Аю кышын йоклый",
+            "translit": "аю кышын йоклый",
+            "gloss": {
+              "ru": "Медведь зимой спит",
+              "en": "The bear sleeps in winter"
+            },
+            "audio": "winter_bear",
+            "envelope": "winter_bear.envelope"
+          },
+          "ask": {
+            "text": "Аю кайда?",
+            "translit": "аю кайда",
+            "gloss": {
+              "ru": "Медведь?",
+              "en": "Where?"
+            },
+            "audio": "winter_bear_ask",
+            "envelope": "winter_bear_ask.envelope"
+          },
+          "position": {
+            "x": 0.3,
+            "y": 0.72,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "fox",
+          "character": "fox",
+          "phrase": {
+            "text": "Төлке карда уйный",
+            "translit": "төлке карда уйный",
+            "gloss": {
+              "ru": "Лиса играет в снегу",
+              "en": "The fox plays in the snow"
+            },
+            "audio": "winter_fox",
+            "envelope": "winter_fox.envelope"
+          },
+          "ask": {
+            "text": "Төлке кайда?",
+            "translit": "төлке кайда",
+            "gloss": {
+              "ru": "Лиса?",
+              "en": "Where?"
+            },
+            "audio": "winter_fox_ask",
+            "envelope": "winter_fox_ask.envelope"
+          },
+          "position": {
+            "x": 0.72,
+            "y": 0.76,
+            "scale": 0.85
+          }
+        },
+        {
+          "id": "bird",
+          "character": "bird",
+          "phrase": {
+            "text": "Кошка суык",
+            "translit": "кошка суык",
+            "gloss": {
+              "ru": "Птичке холодно",
+              "en": "The bird is cold"
+            },
+            "audio": "winter_bird",
+            "envelope": "winter_bird.envelope"
+          },
+          "ask": {
+            "text": "Кош кайда?",
+            "translit": "кош кайда",
+            "gloss": {
+              "ru": "Птичке?",
+              "en": "Where?"
+            },
+            "audio": "winter_bird_ask",
+            "envelope": "winter_bird_ask.envelope"
+          },
+          "position": {
+            "x": 0.55,
+            "y": 0.4,
+            "scale": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "id": "toratau",
+      "title": "Торатау",
+      "gloss": {
+        "ru": "Торатау",
+        "en": "Toratau"
+      },
+      "background": "toratau",
+      "free": false,
+      "items": [
+        {
+          "id": "eagle",
+          "character": "eagle",
+          "phrase": {
+            "text": "Бөркет оча",
+            "translit": "бөркет оча",
+            "gloss": {
+              "ru": "Орёл летит",
+              "en": "The eagle flies"
+            },
+            "audio": "toratau_eagle",
+            "envelope": "toratau_eagle.envelope"
+          },
+          "position": {
+            "x": 0.3,
+            "y": 0.55,
+            "scale": 0.9
+          },
+          "ask": {
+            "text": "Бөркет кайда?",
+            "translit": "бөркет кайда",
+            "gloss": {
+              "ru": "Где орёл?",
+              "en": "Where is the eagle?"
+            },
+            "audio": "toratau_eagle_ask",
+            "envelope": "toratau_eagle_ask.envelope"
+          }
+        },
+        {
+          "id": "horse2",
+          "character": "horse",
+          "phrase": {
+            "text": "Ат тауга менә",
+            "translit": "ат тауга менә",
+            "gloss": {
+              "ru": "Лошадь поднимается на гору",
+              "en": "The horse climbs the mountain"
+            },
+            "audio": "toratau_horse",
+            "envelope": "toratau_horse.envelope"
+          },
+          "position": {
+            "x": 0.7,
+            "y": 0.75,
+            "scale": 1.0
+          },
+          "ask": {
+            "text": "Ат кайда?",
+            "translit": "ат кайда",
+            "gloss": {
+              "ru": "Где лошадь?",
+              "en": "Where is the horse?"
+            },
+            "audio": "toratau_horse2_ask",
+            "envelope": "toratau_horse2_ask.envelope"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bayram",
+      "title": "Бәйрәм",
+      "gloss": {
+        "ru": "Праздник",
+        "en": "Festival"
+      },
+      "background": "bayram",
+      "free": false,
+      "items": [
+        {
+          "id": "dancer",
+          "character": "cat",
+          "phrase": {
+            "text": "Песи бии",
+            "translit": "песи бии",
+            "gloss": {
+              "ru": "Кошка танцует",
+              "en": "The cat dances"
+            },
+            "audio": "bayram_cat",
+            "envelope": "bayram_cat.envelope"
+          },
+          "position": {
+            "x": 0.35,
+            "y": 0.6,
+            "scale": 1.0
+          },
+          "ask": {
+            "text": "Песи кайда?",
+            "translit": "песи кайда",
+            "gloss": {
+              "ru": "Где кошка?",
+              "en": "Where is the cat?"
+            },
+            "audio": "bayram_dancer_ask",
+            "envelope": "bayram_dancer_ask.envelope"
+          }
+        },
+        {
+          "id": "sheep2",
+          "character": "sheep",
+          "phrase": {
+            "text": "Сарык җырлый",
+            "translit": "сарык җырлый",
+            "gloss": {
+              "ru": "Овца поёт",
+              "en": "The sheep sings"
+            },
+            "audio": "bayram_sheep",
+            "envelope": "bayram_sheep.envelope"
+          },
+          "position": {
+            "x": 0.72,
+            "y": 0.78,
+            "scale": 0.9
+          },
+          "ask": {
+            "text": "Сарык кайда?",
+            "translit": "сарык кайда",
+            "gloss": {
+              "ru": "Где овца?",
+              "en": "Where is the sheep?"
+            },
+            "audio": "bayram_sheep2_ask",
+            "envelope": "bayram_sheep2_ask.envelope"
+          }
+        }
+      ]
+    },
+    {
+      "id": "night",
+      "title": "Төн",
+      "gloss": {
+        "ru": "Ночь",
+        "en": "Night"
+      },
+      "background": "night",
+      "free": false,
+      "items": [
+        {
+          "id": "sheep",
+          "character": "sheep",
+          "phrase": {
+            "text": "Йокларга вакыт",
+            "translit": "йокларга вакыт",
+            "gloss": {
+              "ru": "Пора спать",
+              "en": "Time to sleep"
+            },
+            "audio": "night_sheep",
+            "envelope": "night_sheep.envelope"
+          },
+          "ask": {
+            "text": "Сарык кайда?",
+            "translit": "сарык кайда",
+            "gloss": {
+              "ru": "Где овца?",
+              "en": "Where is the sheep?"
+            },
+            "audio": "night_sheep_ask",
+            "envelope": "night_sheep_ask.envelope"
+          },
+          "position": {
+            "x": 0.25,
+            "y": 0.7,
+            "scale": 0.9
+          }
+        },
+        {
+          "id": "dog",
+          "character": "dog",
+          "phrase": {
+            "text": "Мин сине яратам",
+            "translit": "мин сине яратам",
+            "gloss": {
+              "ru": "Я тебя люблю",
+              "en": "I love you"
+            },
+            "audio": "night_dog",
+            "envelope": "night_dog.envelope"
+          },
+          "ask": {
+            "text": "Эт кайда?",
+            "translit": "эт кайда",
+            "gloss": {
+              "ru": "Где собака?",
+              "en": "Where is the dog?"
+            },
+            "audio": "night_dog_ask",
+            "envelope": "night_dog_ask.envelope"
+          },
+          "position": {
+            "x": 0.75,
+            "y": 0.72,
+            "scale": 0.9
+          }
+        },
+        {
+          "id": "bird",
+          "character": "bird",
+          "phrase": {
+            "text": "Тыныч йокы",
+            "translit": "тыныч йокы",
+            "gloss": {
+              "ru": "Спокойной ночи",
+              "en": "Good night"
+            },
+            "audio": "night_bird",
+            "envelope": "night_bird.envelope"
+          },
+          "ask": {
+            "text": "Кош кайда?",
+            "translit": "кош кайда",
+            "gloss": {
+              "ru": "Где птица?",
+              "en": "Where is the bird?"
+            },
+            "audio": "night_bird_ask",
+            "envelope": "night_bird_ask.envelope"
+          },
+          "position": {
+            "x": 0.5,
+            "y": 0.45,
+            "scale": 0.7
+          }
+        }
+      ]
+    }
+  ],
+  "rituals": [
+    {
+      "id": "morning",
+      "title": "Хәерле иртә!",
+      "gloss": {
+        "ru": "Утро",
+        "en": "Morning"
+      },
+      "phrases": [
+        {
+          "text": "Тор, кояшым!",
+          "translit": "тор, кояшым",
+          "gloss": {
+            "ru": "Вставай, солнышко!",
+            "en": "Wake up, sunshine!"
+          },
+          "audio": "morning_wake",
+          "envelope": "morning_wake.envelope"
+        },
+        {
+          "text": "Хәерле иртә",
+          "translit": "хәерле иртә",
+          "gloss": {
+            "ru": "Доброе утро",
+            "en": "Good morning"
+          },
+          "audio": "morning_hello",
+          "envelope": "morning_hello.envelope"
+        },
+        {
+          "text": "Битеңне ю",
+          "translit": "битеңне ю",
+          "gloss": {
+            "ru": "Умой лицо",
+            "en": "Wash your face"
+          },
+          "audio": "morning_wash",
+          "envelope": "morning_wash.envelope"
+        },
+        {
+          "text": "Ашарга утыр",
+          "translit": "ашарга утыр",
+          "gloss": {
+            "ru": "Садись есть",
+            "en": "Sit down to eat"
+          },
+          "audio": "morning_eat",
+          "envelope": "morning_eat.envelope"
+        },
+        {
+          "text": "Тәмлеме, балам?",
+          "translit": "тәмлеме, балам",
+          "gloss": {
+            "ru": "Вкусно, малыш?",
+            "en": "Is it tasty, little one?"
+          },
+          "audio": "morning_tasty",
+          "envelope": "morning_tasty.envelope"
+        }
+      ],
+      "scene": "morning"
+    },
+    {
+      "id": "bath",
+      "title": "Су керәбез",
+      "gloss": {
+        "ru": "Купание",
+        "en": "Bath"
+      },
+      "phrases": [
+        {
+          "text": "Су җылымы?",
+          "translit": "су җылымы",
+          "gloss": {
+            "ru": "Вода тёплая?",
+            "en": "Is the water warm?"
+          },
+          "audio": "bath_warm",
+          "envelope": "bath_warm.envelope"
+        },
+        {
+          "text": "Кулыңны ю",
+          "translit": "кулыңны ю",
+          "gloss": {
+            "ru": "Помой руки",
+            "en": "Wash your hands"
+          },
+          "audio": "bath_hands",
+          "envelope": "bath_hands.envelope"
+        },
+        {
+          "text": "Күзләреңне йом",
+          "translit": "күзләреңне йом",
+          "gloss": {
+            "ru": "Закрой глаза",
+            "en": "Close your eyes"
+          },
+          "audio": "bath_eyes",
+          "envelope": "bath_eyes.envelope"
+        },
+        {
+          "text": "Сөлге белән сөрт",
+          "translit": "сөлге белән сөрт",
+          "gloss": {
+            "ru": "Вытрись полотенцем",
+            "en": "Dry with the towel"
+          },
+          "audio": "bath_towel",
+          "envelope": "bath_towel.envelope"
+        },
+        {
+          "text": "Чиста балам!",
+          "translit": "чиста балам",
+          "gloss": {
+            "ru": "Чистый мой!",
+            "en": "My clean one!"
+          },
+          "audio": "bath_clean",
+          "envelope": "bath_clean.envelope"
+        }
+      ],
+      "scene": "home"
+    },
+    {
+      "id": "bedtime",
+      "title": "Тыныч йокы",
+      "gloss": {
+        "ru": "Перед сном",
+        "en": "Bedtime"
+      },
+      "phrases": [
+        {
+          "text": "Йокларга вакыт",
+          "translit": "йокларга вакыт",
+          "gloss": {
+            "ru": "Пора спать",
+            "en": "Time to sleep"
+          },
+          "audio": "bed_time",
+          "envelope": "bed_time.envelope"
+        },
+        {
+          "text": "Әкият тыңлыйбыз",
+          "translit": "әкият тыңлыйбыз",
+          "gloss": {
+            "ru": "Слушаем сказку",
+            "en": "Let's hear a story"
+          },
+          "audio": "bed_story",
+          "envelope": "bed_story.envelope"
+        },
+        {
+          "text": "Күзләреңне йом",
+          "translit": "күзләреңне йом",
+          "gloss": {
+            "ru": "Закрой глаза",
+            "en": "Close your eyes"
+          },
+          "audio": "bed_eyes",
+          "envelope": "bed_eyes.envelope"
+        },
+        {
+          "text": "Мин сине яратам",
+          "translit": "мин сине яратам",
+          "gloss": {
+            "ru": "Я тебя люблю",
+            "en": "I love you"
+          },
+          "audio": "bed_love",
+          "envelope": "bed_love.envelope"
+        },
+        {
+          "text": "Тыныч йокы",
+          "translit": "тыныч йокы",
+          "gloss": {
+            "ru": "Спокойной ночи",
+            "en": "Good night"
+          },
+          "audio": "bed_night",
+          "envelope": "bed_night.envelope"
+        }
+      ],
+      "scene": "night"
+    }
+  ],
+  "prompts": {
+    "pickScene": "Кая барабыз?",
+    "findMode": "Тап!",
+    "listenMode": "Тыңла"
+  }
+}
